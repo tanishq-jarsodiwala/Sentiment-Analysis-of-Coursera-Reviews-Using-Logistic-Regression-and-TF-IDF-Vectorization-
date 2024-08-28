@@ -1,0 +1,1601 @@
+review,rating,course_id,course_name,instructor_name,difficulty_level,sentiment
+The course was perfect for beginners,3,PHIL-505,Statistics for Data Science,Dr. Mike Davis,Easy,Negative
+I didn't like the way the course was paced,3,ML-101,Introduction to Machine Learning,Dr. Bob Johnson,Medium,Negative
+The course was too easy,5,ML-101,Data Structures and Algorithms,Dr. Alice Brown,Hard,Positive
+I didn't like the way the course was paced,5,ECON-404,Statistics for Data Science,Dr. Bob Johnson,Medium,Positive
+The course was too easy,2,ML-101,Introduction to Machine Learning,Dr. Alice Brown,Hard,Negative
+The course was perfect for beginners,3,ECON-404,Economics for Business,Dr. John Smith,Hard,Negative
+The course was very well-organized,5,STAT-303,Introduction to Machine Learning,Dr. John Smith,Hard,Positive
+The course was too easy,1,PHIL-505,Statistics for Data Science,Dr. Alice Brown,Easy,Negative
+The instructor was very responsive,5,ML-101,Data Structures and Algorithms,Dr. Bob Johnson,Hard,Positive
+The instructor was not very engaging,5,ML-101,Data Structures and Algorithms,Dr. John Smith,Hard,Positive
+I was disappointed with the lack of hands-on exercises,3,ECON-404,Economics for Business,Dr. Jane Doe,Hard,Negative
+This course was amazing!,2,ML-101,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Hard,Negative
+The course was perfect for beginners,5,STAT-303,Introduction to Machine Learning,Dr. Alice Brown,Easy,Positive
+The course was too easy,1,PHIL-505,Data Structures and Algorithms,Dr. Jane Doe,Easy,Negative
+I didn't like the way the course was paced,2,ML-101,Economics for Business,Dr. Mike Davis,Medium,Negative
+The instructor was very knowledgeable,3,ML-101,Statistics for Data Science,Dr. Jane Doe,Medium,Negative
+I loved the interactive quizzes,3,PHIL-505,Statistics for Data Science,Dr. Alice Brown,Hard,Negative
+This course was amazing!,2,CS-202,Data Structures and Algorithms,Dr. Alice Brown,Easy,Negative
+The course was too easy,4,STAT-303,Data Structures and Algorithms,Dr. Mike Davis,Hard,Positive
+The course was very well-organized,3,PHIL-505,Statistics for Data Science,Dr. Jane Doe,Easy,Negative
+The instructor was very knowledgeable,1,CS-202,Introduction to Machine Learning,Dr. Mike Davis,Easy,Negative
+The instructor was very knowledgeable,3,PHIL-505,Introduction to Machine Learning,Dr. Mike Davis,Easy,Negative
+The instructor was very responsive,3,ECON-404,Introduction to Machine Learning,Dr. Alice Brown,Medium,Negative
+I loved the interactive quizzes,1,ML-101,Statistics for Data Science,Dr. Jane Doe,Hard,Negative
+The course was very well-organized,2,ML-101,Data Structures and Algorithms,Dr. Jane Doe,Easy,Negative
+The course was too easy,3,STAT-303,Data Structures and Algorithms,Dr. John Smith,Easy,Negative
+The instructor was not very engaging,1,STAT-303,Data Structures and Algorithms,Dr. Alice Brown,Medium,Negative
+This course was amazing!,4,CS-202,Philosophy of Artificial Intelligence,Dr. Alice Brown,Medium,Positive
+I loved the interactive quizzes,5,ML-101,Philosophy of Artificial Intelligence,Dr. Mike Davis,Easy,Positive
+This course was amazing!,4,STAT-303,Statistics for Data Science,Dr. Jane Doe,Easy,Positive
+I was disappointed with the lack of hands-on exercises,1,ML-101,Statistics for Data Science,Dr. Mike Davis,Hard,Negative
+The instructor was not very engaging,2,ECON-404,Statistics for Data Science,Dr. John Smith,Easy,Negative
+I loved the interactive quizzes,2,ML-101,Statistics for Data Science,Dr. Jane Doe,Easy,Negative
+The course was perfect for beginners,1,PHIL-505,Philosophy of Artificial Intelligence,Dr. Mike Davis,Easy,Negative
+I didn't like the way the course was paced,5,ML-101,Statistics for Data Science,Dr. Jane Doe,Easy,Positive
+The instructor was not very engaging,3,PHIL-505,Philosophy of Artificial Intelligence,Dr. Mike Davis,Hard,Negative
+The instructor was very responsive,4,CS-202,Philosophy of Artificial Intelligence,Dr. Mike Davis,Easy,Positive
+The instructor was not very engaging,1,CS-202,Economics for Business,Dr. Jane Doe,Hard,Negative
+I was disappointed with the lack of hands-on exercises,4,ML-101,Introduction to Machine Learning,Dr. Bob Johnson,Easy,Positive
+I loved the interactive quizzes,4,CS-202,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Easy,Positive
+The instructor was very responsive,1,CS-202,Data Structures and Algorithms,Dr. Mike Davis,Medium,Negative
+The course was too easy,4,STAT-303,Philosophy of Artificial Intelligence,Dr. Jane Doe,Medium,Positive
+I was disappointed with the lack of hands-on exercises,3,CS-202,Philosophy of Artificial Intelligence,Dr. Alice Brown,Easy,Negative
+This course was amazing!,3,PHIL-505,Philosophy of Artificial Intelligence,Dr. Jane Doe,Easy,Negative
+I was disappointed with the lack of hands-on exercises,2,ECON-404,Data Structures and Algorithms,Dr. Alice Brown,Medium,Negative
+The instructor was very knowledgeable,5,PHIL-505,Data Structures and Algorithms,Dr. Mike Davis,Easy,Positive
+The course was very well-organized,3,ML-101,Statistics for Data Science,Dr. Bob Johnson,Easy,Negative
+I didn't like the way the course was paced,4,STAT-303,Philosophy of Artificial Intelligence,Dr. John Smith,Medium,Positive
+I loved the interactive quizzes,3,STAT-303,Data Structures and Algorithms,Dr. Jane Doe,Medium,Negative
+I was disappointed with the lack of hands-on exercises,2,CS-202,Introduction to Machine Learning,Dr. Mike Davis,Medium,Negative
+I didn't like the way the course was paced,5,PHIL-505,Statistics for Data Science,Dr. Mike Davis,Medium,Positive
+The course was perfect for beginners,3,PHIL-505,Data Structures and Algorithms,Dr. Mike Davis,Easy,Negative
+The instructor was not very engaging,4,STAT-303,Data Structures and Algorithms,Dr. John Smith,Easy,Positive
+I was disappointed with the lack of hands-on exercises,1,ECON-404,Statistics for Data Science,Dr. Jane Doe,Hard,Negative
+I loved the interactive quizzes,4,ECON-404,Statistics for Data Science,Dr. Bob Johnson,Medium,Positive
+The course was very well-organized,3,PHIL-505,Economics for Business,Dr. Alice Brown,Hard,Negative
+The instructor was not very engaging,1,ECON-404,Data Structures and Algorithms,Dr. Bob Johnson,Easy,Negative
+The instructor was very responsive,4,ML-101,Economics for Business,Dr. John Smith,Hard,Positive
+I didn't like the way the course was paced,4,STAT-303,Data Structures and Algorithms,Dr. John Smith,Easy,Positive
+I loved the interactive quizzes,4,ML-101,Philosophy of Artificial Intelligence,Dr. Jane Doe,Easy,Positive
+The course was perfect for beginners,2,ECON-404,Philosophy of Artificial Intelligence,Dr. Mike Davis,Hard,Negative
+The instructor was very responsive,4,STAT-303,Introduction to Machine Learning,Dr. Jane Doe,Hard,Positive
+I was disappointed with the lack of hands-on exercises,5,CS-202,Philosophy of Artificial Intelligence,Dr. John Smith,Medium,Positive
+The course was too easy,5,STAT-303,Economics for Business,Dr. Jane Doe,Medium,Positive
+I was disappointed with the lack of hands-on exercises,3,PHIL-505,Economics for Business,Dr. Alice Brown,Easy,Negative
+This course was amazing!,5,STAT-303,Introduction to Machine Learning,Dr. Alice Brown,Easy,Positive
+I was disappointed with the lack of hands-on exercises,1,ECON-404,Data Structures and Algorithms,Dr. Bob Johnson,Easy,Negative
+The course was too easy,2,ECON-404,Data Structures and Algorithms,Dr. Bob Johnson,Medium,Negative
+The instructor was very knowledgeable,3,STAT-303,Economics for Business,Dr. Mike Davis,Hard,Negative
+I was disappointed with the lack of hands-on exercises,2,STAT-303,Introduction to Machine Learning,Dr. Jane Doe,Easy,Negative
+I loved the interactive quizzes,4,ECON-404,Statistics for Data Science,Dr. Alice Brown,Easy,Positive
+This course was amazing!,1,STAT-303,Economics for Business,Dr. John Smith,Hard,Negative
+The course was too easy,2,ECON-404,Economics for Business,Dr. Alice Brown,Medium,Negative
+The course was too easy,2,ML-101,Economics for Business,Dr. Alice Brown,Easy,Negative
+The course was too easy,2,PHIL-505,Philosophy of Artificial Intelligence,Dr. Jane Doe,Hard,Negative
+The course was very well-organized,5,CS-202,Data Structures and Algorithms,Dr. Alice Brown,Easy,Positive
+I loved the interactive quizzes,3,PHIL-505,Economics for Business,Dr. Mike Davis,Medium,Negative
+I loved the interactive quizzes,4,STAT-303,Economics for Business,Dr. Bob Johnson,Hard,Positive
+This course was amazing!,1,ML-101,Philosophy of Artificial Intelligence,Dr. Alice Brown,Hard,Negative
+The instructor was very knowledgeable,2,CS-202,Statistics for Data Science,Dr. Alice Brown,Medium,Negative
+The course was very well-organized,2,PHIL-505,Data Structures and Algorithms,Dr. Jane Doe,Easy,Negative
+The course was too easy,4,PHIL-505,Philosophy of Artificial Intelligence,Dr. John Smith,Hard,Positive
+I was disappointed with the lack of hands-on exercises,2,ECON-404,Introduction to Machine Learning,Dr. Mike Davis,Hard,Negative
+I didn't like the way the course was paced,5,PHIL-505,Introduction to Machine Learning,Dr. John Smith,Easy,Positive
+The instructor was very knowledgeable,1,ML-101,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Medium,Negative
+I was disappointed with the lack of hands-on exercises,1,CS-202,Introduction to Machine Learning,Dr. John Smith,Easy,Negative
+The instructor was very knowledgeable,4,PHIL-505,Data Structures and Algorithms,Dr. Jane Doe,Hard,Positive
+I loved the interactive quizzes,4,CS-202,Economics for Business,Dr. John Smith,Hard,Positive
+I didn't like the way the course was paced,1,CS-202,Economics for Business,Dr. Alice Brown,Easy,Negative
+The instructor was very responsive,1,PHIL-505,Economics for Business,Dr. Jane Doe,Medium,Negative
+I loved the interactive quizzes,4,ML-101,Economics for Business,Dr. Bob Johnson,Hard,Positive
+The course was perfect for beginners,2,ECON-404,Introduction to Machine Learning,Dr. Jane Doe,Medium,Negative
+The course was perfect for beginners,5,PHIL-505,Introduction to Machine Learning,Dr. Mike Davis,Medium,Positive
+This course was amazing!,4,STAT-303,Data Structures and Algorithms,Dr. Mike Davis,Hard,Positive
+This course was amazing!,1,ML-101,Introduction to Machine Learning,Dr. Jane Doe,Hard,Negative
+The course was very well-organized,4,CS-202,Introduction to Machine Learning,Dr. Alice Brown,Hard,Positive
+The instructor was very responsive,1,CS-202,Data Structures and Algorithms,Dr. Jane Doe,Hard,Negative
+The instructor was very knowledgeable,4,ML-101,Introduction to Machine Learning,Dr. Alice Brown,Easy,Positive
+The course was too easy,4,ML-101,Data Structures and Algorithms,Dr. John Smith,Easy,Positive
+The course was very well-organized,2,ECON-404,Economics for Business,Dr. Jane Doe,Medium,Negative
+I didn't like the way the course was paced,3,ML-101,Economics for Business,Dr. Jane Doe,Medium,Negative
+The instructor was not very engaging,2,STAT-303,Economics for Business,Dr. Jane Doe,Hard,Negative
+This course was amazing!,4,ECON-404,Statistics for Data Science,Dr. Alice Brown,Easy,Positive
+I didn't like the way the course was paced,5,CS-202,Statistics for Data Science,Dr. Jane Doe,Easy,Positive
+The course was perfect for beginners,5,CS-202,Data Structures and Algorithms,Dr. Jane Doe,Easy,Positive
+The course was perfect for beginners,1,PHIL-505,Economics for Business,Dr. Mike Davis,Easy,Negative
+The course was perfect for beginners,1,ECON-404,Data Structures and Algorithms,Dr. Bob Johnson,Easy,Negative
+The course was perfect for beginners,2,ECON-404,Philosophy of Artificial Intelligence,Dr. Jane Doe,Easy,Negative
+The course was perfect for beginners,4,ECON-404,Data Structures and Algorithms,Dr. Jane Doe,Hard,Positive
+The instructor was very responsive,5,ML-101,Data Structures and Algorithms,Dr. Mike Davis,Medium,Positive
+The course was very well-organized,1,PHIL-505,Philosophy of Artificial Intelligence,Dr. Mike Davis,Easy,Negative
+I loved the interactive quizzes,2,PHIL-505,Introduction to Machine Learning,Dr. John Smith,Hard,Negative
+I was disappointed with the lack of hands-on exercises,1,ML-101,Economics for Business,Dr. Mike Davis,Medium,Negative
+The instructor was not very engaging,1,CS-202,Introduction to Machine Learning,Dr. Alice Brown,Hard,Negative
+I loved the interactive quizzes,2,ECON-404,Introduction to Machine Learning,Dr. Bob Johnson,Hard,Negative
+The instructor was not very engaging,5,CS-202,Introduction to Machine Learning,Dr. Mike Davis,Medium,Positive
+I was disappointed with the lack of hands-on exercises,2,ML-101,Economics for Business,Dr. Bob Johnson,Medium,Negative
+The course was too easy,1,ML-101,Introduction to Machine Learning,Dr. Alice Brown,Medium,Negative
+I loved the interactive quizzes,2,PHIL-505,Statistics for Data Science,Dr. Alice Brown,Medium,Negative
+The instructor was very responsive,3,ML-101,Economics for Business,Dr. Jane Doe,Hard,Negative
+I loved the interactive quizzes,4,PHIL-505,Statistics for Data Science,Dr. Alice Brown,Easy,Positive
+The course was very well-organized,1,ECON-404,Introduction to Machine Learning,Dr. Jane Doe,Medium,Negative
+The instructor was not very engaging,5,PHIL-505,Data Structures and Algorithms,Dr. Jane Doe,Medium,Positive
+The course was perfect for beginners,1,CS-202,Statistics for Data Science,Dr. Mike Davis,Medium,Negative
+The instructor was very responsive,5,CS-202,Introduction to Machine Learning,Dr. Jane Doe,Easy,Positive
+The instructor was very responsive,1,STAT-303,Economics for Business,Dr. Jane Doe,Easy,Negative
+The instructor was very knowledgeable,1,ML-101,Statistics for Data Science,Dr. Mike Davis,Medium,Negative
+I was disappointed with the lack of hands-on exercises,2,CS-202,Introduction to Machine Learning,Dr. John Smith,Hard,Negative
+I didn't like the way the course was paced,1,PHIL-505,Statistics for Data Science,Dr. Mike Davis,Hard,Negative
+I didn't like the way the course was paced,4,ECON-404,Statistics for Data Science,Dr. Jane Doe,Medium,Positive
+The course was very well-organized,5,CS-202,Economics for Business,Dr. John Smith,Hard,Positive
+This course was amazing!,3,ECON-404,Economics for Business,Dr. Jane Doe,Easy,Negative
+The instructor was very responsive,5,ML-101,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Medium,Positive
+The instructor was not very engaging,5,PHIL-505,Philosophy of Artificial Intelligence,Dr. Jane Doe,Hard,Positive
+The instructor was very responsive,1,CS-202,Data Structures and Algorithms,Dr. John Smith,Hard,Negative
+The course was very well-organized,3,STAT-303,Data Structures and Algorithms,Dr. Alice Brown,Easy,Negative
+The instructor was not very engaging,5,PHIL-505,Economics for Business,Dr. Jane Doe,Hard,Positive
+I was disappointed with the lack of hands-on exercises,4,ML-101,Data Structures and Algorithms,Dr. Alice Brown,Easy,Positive
+This course was amazing!,4,ML-101,Data Structures and Algorithms,Dr. Alice Brown,Medium,Positive
+The course was too easy,1,ECON-404,Statistics for Data Science,Dr. Bob Johnson,Medium,Negative
+The course was too easy,2,ECON-404,Philosophy of Artificial Intelligence,Dr. Jane Doe,Hard,Negative
+I loved the interactive quizzes,2,STAT-303,Introduction to Machine Learning,Dr. Jane Doe,Easy,Negative
+I was disappointed with the lack of hands-on exercises,2,PHIL-505,Data Structures and Algorithms,Dr. John Smith,Hard,Negative
+I was disappointed with the lack of hands-on exercises,4,ECON-404,Introduction to Machine Learning,Dr. Mike Davis,Medium,Positive
+This course was amazing!,5,ECON-404,Economics for Business,Dr. Mike Davis,Hard,Positive
+The instructor was not very engaging,2,STAT-303,Philosophy of Artificial Intelligence,Dr. John Smith,Hard,Negative
+I loved the interactive quizzes,4,PHIL-505,Economics for Business,Dr. Alice Brown,Easy,Positive
+The instructor was very knowledgeable,5,ECON-404,Data Structures and Algorithms,Dr. Bob Johnson,Medium,Positive
+The instructor was not very engaging,1,ECON-404,Economics for Business,Dr. Alice Brown,Medium,Negative
+I didn't like the way the course was paced,3,ECON-404,Statistics for Data Science,Dr. Bob Johnson,Medium,Negative
+The instructor was very responsive,1,ML-101,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Medium,Negative
+The instructor was very knowledgeable,4,ML-101,Statistics for Data Science,Dr. Mike Davis,Easy,Positive
+The instructor was very knowledgeable,1,PHIL-505,Introduction to Machine Learning,Dr. Alice Brown,Medium,Negative
+The instructor was not very engaging,4,CS-202,Philosophy of Artificial Intelligence,Dr. Mike Davis,Hard,Positive
+I was disappointed with the lack of hands-on exercises,3,STAT-303,Introduction to Machine Learning,Dr. John Smith,Hard,Negative
+I was disappointed with the lack of hands-on exercises,2,ECON-404,Data Structures and Algorithms,Dr. Mike Davis,Hard,Negative
+The course was perfect for beginners,3,PHIL-505,Philosophy of Artificial Intelligence,Dr. Jane Doe,Easy,Negative
+The instructor was not very engaging,3,CS-202,Introduction to Machine Learning,Dr. John Smith,Easy,Negative
+I didn't like the way the course was paced,4,ECON-404,Data Structures and Algorithms,Dr. John Smith,Easy,Positive
+I was disappointed with the lack of hands-on exercises,3,CS-202,Philosophy of Artificial Intelligence,Dr. Alice Brown,Easy,Negative
+The course was too easy,1,STAT-303,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Easy,Negative
+The course was perfect for beginners,5,STAT-303,Introduction to Machine Learning,Dr. Bob Johnson,Easy,Positive
+I loved the interactive quizzes,3,CS-202,Economics for Business,Dr. Jane Doe,Hard,Negative
+The instructor was very responsive,5,ECON-404,Data Structures and Algorithms,Dr. Mike Davis,Medium,Positive
+The course was too easy,1,STAT-303,Philosophy of Artificial Intelligence,Dr. John Smith,Hard,Negative
+I was disappointed with the lack of hands-on exercises,3,ML-101,Data Structures and Algorithms,Dr. John Smith,Easy,Negative
+The course was too easy,2,ML-101,Statistics for Data Science,Dr. John Smith,Medium,Negative
+The course was very well-organized,1,ML-101,Data Structures and Algorithms,Dr. Alice Brown,Easy,Negative
+I didn't like the way the course was paced,1,PHIL-505,Introduction to Machine Learning,Dr. Jane Doe,Medium,Negative
+The instructor was not very engaging,5,ECON-404,Economics for Business,Dr. Alice Brown,Hard,Positive
+I didn't like the way the course was paced,1,CS-202,Introduction to Machine Learning,Dr. John Smith,Hard,Negative
+The instructor was very responsive,2,PHIL-505,Economics for Business,Dr. Bob Johnson,Medium,Negative
+The instructor was not very engaging,2,STAT-303,Philosophy of Artificial Intelligence,Dr. Alice Brown,Medium,Negative
+The instructor was not very engaging,1,ECON-404,Data Structures and Algorithms,Dr. Bob Johnson,Medium,Negative
+The instructor was very knowledgeable,1,ML-101,Philosophy of Artificial Intelligence,Dr. Alice Brown,Easy,Negative
+The course was perfect for beginners,4,ECON-404,Economics for Business,Dr. Jane Doe,Easy,Positive
+I didn't like the way the course was paced,1,PHIL-505,Statistics for Data Science,Dr. John Smith,Easy,Negative
+The course was perfect for beginners,3,STAT-303,Philosophy of Artificial Intelligence,Dr. Mike Davis,Medium,Negative
+The course was perfect for beginners,2,STAT-303,Statistics for Data Science,Dr. Bob Johnson,Hard,Negative
+The course was very well-organized,5,ML-101,Introduction to Machine Learning,Dr. John Smith,Hard,Positive
+The course was too easy,5,ML-101,Statistics for Data Science,Dr. Bob Johnson,Medium,Positive
+The instructor was not very engaging,2,ML-101,Data Structures and Algorithms,Dr. John Smith,Hard,Negative
+The instructor was very knowledgeable,1,STAT-303,Economics for Business,Dr. Alice Brown,Hard,Negative
+The instructor was very responsive,1,ML-101,Data Structures and Algorithms,Dr. John Smith,Medium,Negative
+The instructor was not very engaging,5,CS-202,Philosophy of Artificial Intelligence,Dr. Jane Doe,Easy,Positive
+I loved the interactive quizzes,4,STAT-303,Philosophy of Artificial Intelligence,Dr. Mike Davis,Easy,Positive
+The course was very well-organized,2,CS-202,Statistics for Data Science,Dr. John Smith,Easy,Negative
+The course was perfect for beginners,3,CS-202,Philosophy of Artificial Intelligence,Dr. John Smith,Medium,Negative
+The instructor was not very engaging,3,STAT-303,Statistics for Data Science,Dr. Jane Doe,Hard,Negative
+I loved the interactive quizzes,3,PHIL-505,Introduction to Machine Learning,Dr. John Smith,Hard,Negative
+The course was perfect for beginners,2,PHIL-505,Introduction to Machine Learning,Dr. Alice Brown,Easy,Negative
+I was disappointed with the lack of hands-on exercises,1,STAT-303,Data Structures and Algorithms,Dr. Alice Brown,Hard,Negative
+The course was very well-organized,4,ML-101,Philosophy of Artificial Intelligence,Dr. Mike Davis,Medium,Positive
+The course was very well-organized,2,STAT-303,Data Structures and Algorithms,Dr. John Smith,Medium,Negative
+The course was very well-organized,2,ECON-404,Philosophy of Artificial Intelligence,Dr. Jane Doe,Hard,Negative
+The instructor was very responsive,1,ECON-404,Statistics for Data Science,Dr. Bob Johnson,Medium,Negative
+This course was amazing!,5,STAT-303,Economics for Business,Dr. Jane Doe,Medium,Positive
+The course was perfect for beginners,2,ECON-404,Data Structures and Algorithms,Dr. Bob Johnson,Easy,Negative
+The course was too easy,1,STAT-303,Data Structures and Algorithms,Dr. Mike Davis,Hard,Negative
+The course was perfect for beginners,3,ECON-404,Philosophy of Artificial Intelligence,Dr. John Smith,Easy,Negative
+The instructor was very knowledgeable,1,PHIL-505,Economics for Business,Dr. Bob Johnson,Medium,Negative
+This course was amazing!,1,ML-101,Philosophy of Artificial Intelligence,Dr. John Smith,Medium,Negative
+I was disappointed with the lack of hands-on exercises,3,ECON-404,Data Structures and Algorithms,Dr. Jane Doe,Medium,Negative
+I loved the interactive quizzes,5,ECON-404,Introduction to Machine Learning,Dr. Bob Johnson,Hard,Positive
+I loved the interactive quizzes,4,ECON-404,Economics for Business,Dr. Bob Johnson,Easy,Positive
+The course was too easy,4,ECON-404,Statistics for Data Science,Dr. John Smith,Easy,Positive
+This course was amazing!,3,ECON-404,Economics for Business,Dr. Bob Johnson,Medium,Negative
+The instructor was not very engaging,1,STAT-303,Data Structures and Algorithms,Dr. Alice Brown,Medium,Negative
+This course was amazing!,5,PHIL-505,Data Structures and Algorithms,Dr. Bob Johnson,Medium,Positive
+The instructor was not very engaging,3,ECON-404,Philosophy of Artificial Intelligence,Dr. Jane Doe,Medium,Negative
+The instructor was not very engaging,3,ML-101,Data Structures and Algorithms,Dr. John Smith,Easy,Negative
+This course was amazing!,2,CS-202,Economics for Business,Dr. Alice Brown,Medium,Negative
+The instructor was very knowledgeable,1,ECON-404,Statistics for Data Science,Dr. Bob Johnson,Easy,Negative
+The course was too easy,5,CS-202,Philosophy of Artificial Intelligence,Dr. Alice Brown,Medium,Positive
+The instructor was very knowledgeable,2,CS-202,Economics for Business,Dr. Jane Doe,Medium,Negative
+The course was too easy,3,STAT-303,Philosophy of Artificial Intelligence,Dr. Alice Brown,Easy,Negative
+This course was amazing!,3,CS-202,Introduction to Machine Learning,Dr. Alice Brown,Easy,Negative
+The course was too easy,1,ECON-404,Introduction to Machine Learning,Dr. Bob Johnson,Easy,Negative
+The instructor was not very engaging,1,PHIL-505,Statistics for Data Science,Dr. Bob Johnson,Hard,Negative
+The course was too easy,1,ML-101,Introduction to Machine Learning,Dr. John Smith,Medium,Negative
+The instructor was very knowledgeable,4,STAT-303,Data Structures and Algorithms,Dr. Jane Doe,Hard,Positive
+I was disappointed with the lack of hands-on exercises,5,PHIL-505,Economics for Business,Dr. John Smith,Hard,Positive
+I was disappointed with the lack of hands-on exercises,5,ECON-404,Statistics for Data Science,Dr. Bob Johnson,Medium,Positive
+I didn't like the way the course was paced,3,ECON-404,Introduction to Machine Learning,Dr. Bob Johnson,Hard,Negative
+The course was very well-organized,3,PHIL-505,Introduction to Machine Learning,Dr. Bob Johnson,Easy,Negative
+This course was amazing!,2,CS-202,Statistics for Data Science,Dr. Jane Doe,Medium,Negative
+The instructor was very responsive,2,STAT-303,Philosophy of Artificial Intelligence,Dr. Mike Davis,Hard,Negative
+I was disappointed with the lack of hands-on exercises,2,CS-202,Data Structures and Algorithms,Dr. Bob Johnson,Medium,Negative
+I was disappointed with the lack of hands-on exercises,4,CS-202,Philosophy of Artificial Intelligence,Dr. Jane Doe,Hard,Positive
+I didn't like the way the course was paced,2,PHIL-505,Economics for Business,Dr. Jane Doe,Medium,Negative
+I was disappointed with the lack of hands-on exercises,1,CS-202,Introduction to Machine Learning,Dr. Bob Johnson,Easy,Negative
+I was disappointed with the lack of hands-on exercises,5,PHIL-505,Philosophy of Artificial Intelligence,Dr. Alice Brown,Medium,Positive
+I didn't like the way the course was paced,2,PHIL-505,Philosophy of Artificial Intelligence,Dr. Jane Doe,Hard,Negative
+The course was too easy,3,CS-202,Philosophy of Artificial Intelligence,Dr. Mike Davis,Hard,Negative
+I was disappointed with the lack of hands-on exercises,1,CS-202,Philosophy of Artificial Intelligence,Dr. John Smith,Easy,Negative
+The instructor was very knowledgeable,3,ML-101,Introduction to Machine Learning,Dr. Bob Johnson,Medium,Negative
+The instructor was very responsive,4,ECON-404,Statistics for Data Science,Dr. Jane Doe,Medium,Positive
+The instructor was not very engaging,4,ECON-404,Statistics for Data Science,Dr. Jane Doe,Easy,Positive
+The course was very well-organized,3,PHIL-505,Statistics for Data Science,Dr. John Smith,Easy,Negative
+I was disappointed with the lack of hands-on exercises,1,PHIL-505,Economics for Business,Dr. Jane Doe,Medium,Negative
+The instructor was not very engaging,2,ML-101,Introduction to Machine Learning,Dr. Jane Doe,Hard,Negative
+The instructor was not very engaging,5,STAT-303,Data Structures and Algorithms,Dr. Jane Doe,Hard,Positive
+The course was perfect for beginners,2,STAT-303,Statistics for Data Science,Dr. Bob Johnson,Hard,Negative
+The course was perfect for beginners,4,PHIL-505,Introduction to Machine Learning,Dr. Jane Doe,Easy,Positive
+I loved the interactive quizzes,5,CS-202,Economics for Business,Dr. Bob Johnson,Medium,Positive
+The course was perfect for beginners,5,STAT-303,Statistics for Data Science,Dr. Bob Johnson,Easy,Positive
+The instructor was very knowledgeable,3,PHIL-505,Economics for Business,Dr. Alice Brown,Hard,Negative
+The course was very well-organized,3,CS-202,Statistics for Data Science,Dr. Bob Johnson,Hard,Negative
+The instructor was not very engaging,1,PHIL-505,Philosophy of Artificial Intelligence,Dr. Mike Davis,Easy,Negative
+I loved the interactive quizzes,3,CS-202,Statistics for Data Science,Dr. John Smith,Hard,Negative
+The course was perfect for beginners,2,ML-101,Economics for Business,Dr. Alice Brown,Hard,Negative
+I didn't like the way the course was paced,5,STAT-303,Economics for Business,Dr. Bob Johnson,Medium,Positive
+I loved the interactive quizzes,3,PHIL-505,Data Structures and Algorithms,Dr. Mike Davis,Easy,Negative
+The course was very well-organized,1,ML-101,Introduction to Machine Learning,Dr. Alice Brown,Easy,Negative
+The instructor was not very engaging,1,ML-101,Statistics for Data Science,Dr. Jane Doe,Medium,Negative
+I loved the interactive quizzes,3,PHIL-505,Economics for Business,Dr. Mike Davis,Hard,Negative
+I was disappointed with the lack of hands-on exercises,5,STAT-303,Statistics for Data Science,Dr. John Smith,Easy,Positive
+I loved the interactive quizzes,4,ML-101,Statistics for Data Science,Dr. John Smith,Hard,Positive
+The instructor was very responsive,5,ML-101,Statistics for Data Science,Dr. Jane Doe,Medium,Positive
+The instructor was not very engaging,2,ECON-404,Statistics for Data Science,Dr. Jane Doe,Easy,Negative
+The course was very well-organized,3,PHIL-505,Economics for Business,Dr. Alice Brown,Medium,Negative
+The instructor was very responsive,2,PHIL-505,Philosophy of Artificial Intelligence,Dr. Jane Doe,Easy,Negative
+I loved the interactive quizzes,2,CS-202,Statistics for Data Science,Dr. Jane Doe,Easy,Negative
+The instructor was very knowledgeable,2,ML-101,Statistics for Data Science,Dr. Bob Johnson,Easy,Negative
+The instructor was not very engaging,2,STAT-303,Data Structures and Algorithms,Dr. John Smith,Hard,Negative
+I loved the interactive quizzes,3,STAT-303,Data Structures and Algorithms,Dr. John Smith,Medium,Negative
+I didn't like the way the course was paced,3,STAT-303,Economics for Business,Dr. Bob Johnson,Medium,Negative
+I didn't like the way the course was paced,2,CS-202,Data Structures and Algorithms,Dr. Mike Davis,Medium,Negative
+I didn't like the way the course was paced,5,ECON-404,Philosophy of Artificial Intelligence,Dr. John Smith,Hard,Positive
+I didn't like the way the course was paced,1,ML-101,Statistics for Data Science,Dr. John Smith,Hard,Negative
+The course was perfect for beginners,3,ECON-404,Economics for Business,Dr. Alice Brown,Hard,Negative
+This course was amazing!,4,STAT-303,Introduction to Machine Learning,Dr. Jane Doe,Medium,Positive
+The course was very well-organized,1,ML-101,Philosophy of Artificial Intelligence,Dr. Mike Davis,Easy,Negative
+This course was amazing!,3,ML-101,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Medium,Negative
+I was disappointed with the lack of hands-on exercises,2,ML-101,Philosophy of Artificial Intelligence,Dr. John Smith,Medium,Negative
+I was disappointed with the lack of hands-on exercises,5,STAT-303,Statistics for Data Science,Dr. Bob Johnson,Medium,Positive
+The course was very well-organized,5,ML-101,Statistics for Data Science,Dr. Alice Brown,Hard,Positive
+The course was too easy,2,PHIL-505,Statistics for Data Science,Dr. Bob Johnson,Easy,Negative
+I loved the interactive quizzes,5,ML-101,Economics for Business,Dr. Alice Brown,Hard,Positive
+The course was perfect for beginners,1,CS-202,Data Structures and Algorithms,Dr. Bob Johnson,Medium,Negative
+The course was very well-organized,3,ML-101,Economics for Business,Dr. Mike Davis,Hard,Negative
+The course was perfect for beginners,5,PHIL-505,Introduction to Machine Learning,Dr. Mike Davis,Hard,Positive
+I loved the interactive quizzes,2,PHIL-505,Economics for Business,Dr. Mike Davis,Medium,Negative
+I loved the interactive quizzes,3,STAT-303,Statistics for Data Science,Dr. John Smith,Medium,Negative
+The course was perfect for beginners,1,ML-101,Data Structures and Algorithms,Dr. John Smith,Easy,Negative
+The instructor was very knowledgeable,5,ML-101,Introduction to Machine Learning,Dr. John Smith,Medium,Positive
+The course was very well-organized,1,CS-202,Data Structures and Algorithms,Dr. Mike Davis,Medium,Negative
+The course was too easy,1,ECON-404,Introduction to Machine Learning,Dr. John Smith,Easy,Negative
+The instructor was very responsive,2,PHIL-505,Economics for Business,Dr. John Smith,Easy,Negative
+The course was too easy,2,ECON-404,Economics for Business,Dr. Alice Brown,Hard,Negative
+The course was very well-organized,4,ECON-404,Statistics for Data Science,Dr. Jane Doe,Easy,Positive
+I was disappointed with the lack of hands-on exercises,5,ECON-404,Introduction to Machine Learning,Dr. Mike Davis,Hard,Positive
+The instructor was not very engaging,5,CS-202,Philosophy of Artificial Intelligence,Dr. Mike Davis,Hard,Positive
+The course was very well-organized,4,ECON-404,Philosophy of Artificial Intelligence,Dr. Alice Brown,Easy,Positive
+The instructor was very responsive,2,CS-202,Statistics for Data Science,Dr. Bob Johnson,Easy,Negative
+This course was amazing!,3,ECON-404,Introduction to Machine Learning,Dr. Jane Doe,Medium,Negative
+The course was too easy,1,STAT-303,Economics for Business,Dr. Mike Davis,Hard,Negative
+I didn't like the way the course was paced,4,CS-202,Statistics for Data Science,Dr. Mike Davis,Hard,Positive
+The instructor was not very engaging,2,PHIL-505,Statistics for Data Science,Dr. Mike Davis,Hard,Negative
+The course was perfect for beginners,4,CS-202,Economics for Business,Dr. Bob Johnson,Easy,Positive
+The course was perfect for beginners,2,STAT-303,Introduction to Machine Learning,Dr. Bob Johnson,Hard,Negative
+The course was very well-organized,4,ML-101,Data Structures and Algorithms,Dr. Mike Davis,Medium,Positive
+I was disappointed with the lack of hands-on exercises,4,PHIL-505,Introduction to Machine Learning,Dr. Jane Doe,Medium,Positive
+The course was very well-organized,2,ML-101,Economics for Business,Dr. Bob Johnson,Hard,Negative
+The course was too easy,1,ML-101,Introduction to Machine Learning,Dr. Jane Doe,Hard,Negative
+The instructor was very knowledgeable,5,ML-101,Economics for Business,Dr. Jane Doe,Medium,Positive
+I didn't like the way the course was paced,3,CS-202,Statistics for Data Science,Dr. Mike Davis,Easy,Negative
+The instructor was very responsive,1,CS-202,Philosophy of Artificial Intelligence,Dr. Alice Brown,Easy,Negative
+I was disappointed with the lack of hands-on exercises,5,PHIL-505,Data Structures and Algorithms,Dr. Jane Doe,Medium,Positive
+I didn't like the way the course was paced,2,STAT-303,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Easy,Negative
+The course was perfect for beginners,1,ML-101,Economics for Business,Dr. Jane Doe,Easy,Negative
+This course was amazing!,1,ML-101,Economics for Business,Dr. Bob Johnson,Medium,Negative
+I didn't like the way the course was paced,3,STAT-303,Statistics for Data Science,Dr. Alice Brown,Easy,Negative
+The course was perfect for beginners,1,ECON-404,Data Structures and Algorithms,Dr. Alice Brown,Medium,Negative
+I was disappointed with the lack of hands-on exercises,5,ECON-404,Data Structures and Algorithms,Dr. Bob Johnson,Easy,Positive
+The instructor was very knowledgeable,4,PHIL-505,Economics for Business,Dr. Alice Brown,Hard,Positive
+I was disappointed with the lack of hands-on exercises,2,ML-101,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Hard,Negative
+The course was very well-organized,1,CS-202,Statistics for Data Science,Dr. Bob Johnson,Easy,Negative
+This course was amazing!,3,ECON-404,Introduction to Machine Learning,Dr. Alice Brown,Medium,Negative
+The course was very well-organized,3,ECON-404,Introduction to Machine Learning,Dr. Mike Davis,Easy,Negative
+I didn't like the way the course was paced,5,ML-101,Introduction to Machine Learning,Dr. John Smith,Medium,Positive
+The instructor was not very engaging,1,PHIL-505,Philosophy of Artificial Intelligence,Dr. Mike Davis,Easy,Negative
+The course was perfect for beginners,4,STAT-303,Statistics for Data Science,Dr. John Smith,Medium,Positive
+I didn't like the way the course was paced,5,PHIL-505,Economics for Business,Dr. Bob Johnson,Easy,Positive
+I loved the interactive quizzes,3,STAT-303,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Medium,Negative
+The course was too easy,2,STAT-303,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Medium,Negative
+The course was perfect for beginners,3,ML-101,Statistics for Data Science,Dr. Mike Davis,Easy,Negative
+I didn't like the way the course was paced,2,STAT-303,Statistics for Data Science,Dr. Mike Davis,Hard,Negative
+I loved the interactive quizzes,1,STAT-303,Statistics for Data Science,Dr. Mike Davis,Hard,Negative
+The instructor was not very engaging,4,ML-101,Data Structures and Algorithms,Dr. Jane Doe,Medium,Positive
+The course was too easy,2,ML-101,Introduction to Machine Learning,Dr. John Smith,Hard,Negative
+The course was perfect for beginners,5,CS-202,Philosophy of Artificial Intelligence,Dr. Mike Davis,Hard,Positive
+The instructor was not very engaging,3,CS-202,Economics for Business,Dr. Alice Brown,Medium,Negative
+This course was amazing!,3,ML-101,Philosophy of Artificial Intelligence,Dr. John Smith,Medium,Negative
+The course was very well-organized,2,ECON-404,Philosophy of Artificial Intelligence,Dr. Alice Brown,Easy,Negative
+I didn't like the way the course was paced,3,PHIL-505,Statistics for Data Science,Dr. Bob Johnson,Hard,Negative
+The instructor was not very engaging,2,CS-202,Philosophy of Artificial Intelligence,Dr. Alice Brown,Medium,Negative
+I didn't like the way the course was paced,2,CS-202,Introduction to Machine Learning,Dr. Jane Doe,Hard,Negative
+The instructor was very responsive,5,STAT-303,Statistics for Data Science,Dr. Jane Doe,Hard,Positive
+I didn't like the way the course was paced,4,CS-202,Introduction to Machine Learning,Dr. Alice Brown,Easy,Positive
+I loved the interactive quizzes,3,CS-202,Statistics for Data Science,Dr. Mike Davis,Easy,Negative
+The course was too easy,2,PHIL-505,Economics for Business,Dr. Bob Johnson,Easy,Negative
+This course was amazing!,1,CS-202,Statistics for Data Science,Dr. Mike Davis,Medium,Negative
+The course was very well-organized,5,CS-202,Introduction to Machine Learning,Dr. Mike Davis,Medium,Positive
+I was disappointed with the lack of hands-on exercises,2,STAT-303,Data Structures and Algorithms,Dr. Mike Davis,Medium,Negative
+I loved the interactive quizzes,5,STAT-303,Data Structures and Algorithms,Dr. Alice Brown,Hard,Positive
+The instructor was very responsive,5,PHIL-505,Statistics for Data Science,Dr. Mike Davis,Easy,Positive
+The instructor was not very engaging,2,PHIL-505,Statistics for Data Science,Dr. Jane Doe,Easy,Negative
+I didn't like the way the course was paced,4,PHIL-505,Statistics for Data Science,Dr. John Smith,Easy,Positive
+I loved the interactive quizzes,1,CS-202,Statistics for Data Science,Dr. Jane Doe,Medium,Negative
+I was disappointed with the lack of hands-on exercises,4,CS-202,Data Structures and Algorithms,Dr. Jane Doe,Easy,Positive
+I didn't like the way the course was paced,4,PHIL-505,Statistics for Data Science,Dr. Mike Davis,Easy,Positive
+The course was perfect for beginners,1,CS-202,Introduction to Machine Learning,Dr. Jane Doe,Hard,Negative
+I loved the interactive quizzes,3,ML-101,Economics for Business,Dr. John Smith,Medium,Negative
+The course was too easy,3,PHIL-505,Economics for Business,Dr. Bob Johnson,Easy,Negative
+I loved the interactive quizzes,2,PHIL-505,Statistics for Data Science,Dr. Alice Brown,Medium,Negative
+The instructor was very knowledgeable,4,STAT-303,Statistics for Data Science,Dr. Bob Johnson,Easy,Positive
+I didn't like the way the course was paced,4,STAT-303,Data Structures and Algorithms,Dr. John Smith,Easy,Positive
+This course was amazing!,4,STAT-303,Data Structures and Algorithms,Dr. Jane Doe,Easy,Positive
+The course was very well-organized,4,PHIL-505,Philosophy of Artificial Intelligence,Dr. Alice Brown,Hard,Positive
+The course was perfect for beginners,2,STAT-303,Data Structures and Algorithms,Dr. Bob Johnson,Easy,Negative
+I was disappointed with the lack of hands-on exercises,1,CS-202,Data Structures and Algorithms,Dr. Bob Johnson,Easy,Negative
+I loved the interactive quizzes,3,CS-202,Philosophy of Artificial Intelligence,Dr. Mike Davis,Hard,Negative
+The instructor was very responsive,5,CS-202,Statistics for Data Science,Dr. Bob Johnson,Easy,Positive
+The course was perfect for beginners,3,PHIL-505,Statistics for Data Science,Dr. Mike Davis,Hard,Negative
+The course was very well-organized,1,STAT-303,Economics for Business,Dr. John Smith,Hard,Negative
+This course was amazing!,3,ML-101,Data Structures and Algorithms,Dr. Bob Johnson,Medium,Negative
+The course was perfect for beginners,3,PHIL-505,Data Structures and Algorithms,Dr. Jane Doe,Medium,Negative
+I was disappointed with the lack of hands-on exercises,1,STAT-303,Economics for Business,Dr. Mike Davis,Hard,Negative
+The course was very well-organized,3,ML-101,Statistics for Data Science,Dr. Alice Brown,Medium,Negative
+The instructor was not very engaging,3,STAT-303,Philosophy of Artificial Intelligence,Dr. Jane Doe,Easy,Negative
+I was disappointed with the lack of hands-on exercises,3,PHIL-505,Philosophy of Artificial Intelligence,Dr. Jane Doe,Hard,Negative
+The course was very well-organized,1,ECON-404,Data Structures and Algorithms,Dr. Jane Doe,Hard,Negative
+The instructor was very responsive,2,STAT-303,Statistics for Data Science,Dr. Bob Johnson,Medium,Negative
+I was disappointed with the lack of hands-on exercises,1,CS-202,Economics for Business,Dr. Jane Doe,Hard,Negative
+I was disappointed with the lack of hands-on exercises,1,STAT-303,Economics for Business,Dr. Bob Johnson,Medium,Negative
+The instructor was not very engaging,4,ML-101,Philosophy of Artificial Intelligence,Dr. Jane Doe,Easy,Positive
+I was disappointed with the lack of hands-on exercises,4,ECON-404,Data Structures and Algorithms,Dr. Mike Davis,Easy,Positive
+The instructor was not very engaging,3,CS-202,Statistics for Data Science,Dr. Mike Davis,Hard,Negative
+The course was perfect for beginners,3,PHIL-505,Economics for Business,Dr. John Smith,Medium,Negative
+This course was amazing!,3,ML-101,Data Structures and Algorithms,Dr. John Smith,Hard,Negative
+The instructor was very knowledgeable,4,CS-202,Philosophy of Artificial Intelligence,Dr. Mike Davis,Easy,Positive
+I didn't like the way the course was paced,3,PHIL-505,Statistics for Data Science,Dr. Alice Brown,Easy,Negative
+This course was amazing!,5,STAT-303,Statistics for Data Science,Dr. Alice Brown,Easy,Positive
+The course was perfect for beginners,5,CS-202,Economics for Business,Dr. Mike Davis,Hard,Positive
+I was disappointed with the lack of hands-on exercises,4,PHIL-505,Statistics for Data Science,Dr. Bob Johnson,Medium,Positive
+The instructor was not very engaging,1,ECON-404,Data Structures and Algorithms,Dr. John Smith,Medium,Negative
+The instructor was not very engaging,2,STAT-303,Economics for Business,Dr. Bob Johnson,Hard,Negative
+The instructor was very responsive,2,PHIL-505,Statistics for Data Science,Dr. Bob Johnson,Easy,Negative
+This course was amazing!,3,STAT-303,Introduction to Machine Learning,Dr. Bob Johnson,Easy,Negative
+The instructor was not very engaging,2,ML-101,Economics for Business,Dr. Jane Doe,Easy,Negative
+The course was very well-organized,5,PHIL-505,Economics for Business,Dr. Bob Johnson,Easy,Positive
+This course was amazing!,3,ECON-404,Statistics for Data Science,Dr. Bob Johnson,Medium,Negative
+I was disappointed with the lack of hands-on exercises,1,STAT-303,Philosophy of Artificial Intelligence,Dr. Alice Brown,Medium,Negative
+The instructor was very knowledgeable,1,PHIL-505,Philosophy of Artificial Intelligence,Dr. Mike Davis,Easy,Negative
+I loved the interactive quizzes,3,CS-202,Introduction to Machine Learning,Dr. Bob Johnson,Medium,Negative
+The course was perfect for beginners,4,ECON-404,Philosophy of Artificial Intelligence,Dr. Alice Brown,Hard,Positive
+The course was too easy,4,STAT-303,Introduction to Machine Learning,Dr. Jane Doe,Medium,Positive
+I was disappointed with the lack of hands-on exercises,2,STAT-303,Philosophy of Artificial Intelligence,Dr. Jane Doe,Medium,Negative
+I was disappointed with the lack of hands-on exercises,3,ML-101,Philosophy of Artificial Intelligence,Dr. Mike Davis,Easy,Negative
+The course was too easy,3,PHIL-505,Economics for Business,Dr. Mike Davis,Medium,Negative
+The course was very well-organized,5,ECON-404,Statistics for Data Science,Dr. Alice Brown,Medium,Positive
+I loved the interactive quizzes,2,ECON-404,Introduction to Machine Learning,Dr. Bob Johnson,Medium,Negative
+The course was perfect for beginners,3,STAT-303,Data Structures and Algorithms,Dr. Alice Brown,Hard,Negative
+I was disappointed with the lack of hands-on exercises,3,ML-101,Economics for Business,Dr. Jane Doe,Easy,Negative
+The course was too easy,1,PHIL-505,Philosophy of Artificial Intelligence,Dr. John Smith,Hard,Negative
+The instructor was not very engaging,5,STAT-303,Data Structures and Algorithms,Dr. Alice Brown,Easy,Positive
+The course was too easy,5,CS-202,Statistics for Data Science,Dr. Bob Johnson,Medium,Positive
+This course was amazing!,4,STAT-303,Statistics for Data Science,Dr. Alice Brown,Easy,Positive
+The instructor was very responsive,5,STAT-303,Economics for Business,Dr. Mike Davis,Easy,Positive
+I loved the interactive quizzes,5,ML-101,Data Structures and Algorithms,Dr. Bob Johnson,Medium,Positive
+This course was amazing!,4,CS-202,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Easy,Positive
+The course was very well-organized,3,STAT-303,Economics for Business,Dr. Bob Johnson,Hard,Negative
+I didn't like the way the course was paced,4,ECON-404,Philosophy of Artificial Intelligence,Dr. Jane Doe,Easy,Positive
+The course was perfect for beginners,5,ECON-404,Philosophy of Artificial Intelligence,Dr. Alice Brown,Easy,Positive
+The course was very well-organized,5,ECON-404,Data Structures and Algorithms,Dr. Jane Doe,Medium,Positive
+The instructor was very responsive,4,PHIL-505,Data Structures and Algorithms,Dr. Jane Doe,Easy,Positive
+I didn't like the way the course was paced,5,CS-202,Statistics for Data Science,Dr. Alice Brown,Medium,Positive
+The course was perfect for beginners,2,ML-101,Introduction to Machine Learning,Dr. Mike Davis,Medium,Negative
+I was disappointed with the lack of hands-on exercises,2,CS-202,Data Structures and Algorithms,Dr. John Smith,Easy,Negative
+The instructor was not very engaging,1,ML-101,Introduction to Machine Learning,Dr. Mike Davis,Easy,Negative
+The course was very well-organized,3,CS-202,Data Structures and Algorithms,Dr. Mike Davis,Medium,Negative
+The course was very well-organized,5,STAT-303,Data Structures and Algorithms,Dr. Mike Davis,Easy,Positive
+I loved the interactive quizzes,4,ML-101,Statistics for Data Science,Dr. John Smith,Easy,Positive
+I loved the interactive quizzes,3,PHIL-505,Economics for Business,Dr. Jane Doe,Hard,Negative
+The course was very well-organized,5,STAT-303,Introduction to Machine Learning,Dr. Jane Doe,Medium,Positive
+The course was too easy,4,ECON-404,Statistics for Data Science,Dr. John Smith,Hard,Positive
+The instructor was very responsive,5,STAT-303,Introduction to Machine Learning,Dr. Mike Davis,Medium,Positive
+The instructor was very knowledgeable,3,STAT-303,Introduction to Machine Learning,Dr. Bob Johnson,Hard,Negative
+I didn't like the way the course was paced,2,PHIL-505,Statistics for Data Science,Dr. Alice Brown,Easy,Negative
+The course was perfect for beginners,2,PHIL-505,Data Structures and Algorithms,Dr. Mike Davis,Medium,Negative
+This course was amazing!,3,ECON-404,Statistics for Data Science,Dr. Alice Brown,Easy,Negative
+I loved the interactive quizzes,3,CS-202,Statistics for Data Science,Dr. Jane Doe,Easy,Negative
+The course was perfect for beginners,3,ECON-404,Economics for Business,Dr. Alice Brown,Medium,Negative
+This course was amazing!,1,STAT-303,Statistics for Data Science,Dr. Jane Doe,Easy,Negative
+The instructor was not very engaging,2,PHIL-505,Introduction to Machine Learning,Dr. Mike Davis,Hard,Negative
+The instructor was very responsive,4,PHIL-505,Statistics for Data Science,Dr. Alice Brown,Hard,Positive
+The instructor was not very engaging,3,ECON-404,Philosophy of Artificial Intelligence,Dr. John Smith,Hard,Negative
+The course was perfect for beginners,2,ECON-404,Data Structures and Algorithms,Dr. Bob Johnson,Medium,Negative
+The course was very well-organized,4,STAT-303,Data Structures and Algorithms,Dr. Bob Johnson,Easy,Positive
+The instructor was very responsive,3,ECON-404,Data Structures and Algorithms,Dr. Mike Davis,Easy,Negative
+The instructor was not very engaging,2,CS-202,Statistics for Data Science,Dr. Jane Doe,Medium,Negative
+The course was too easy,5,STAT-303,Introduction to Machine Learning,Dr. Alice Brown,Easy,Positive
+The instructor was very knowledgeable,4,ECON-404,Economics for Business,Dr. Jane Doe,Medium,Positive
+I didn't like the way the course was paced,4,PHIL-505,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Medium,Positive
+I was disappointed with the lack of hands-on exercises,2,CS-202,Statistics for Data Science,Dr. Bob Johnson,Medium,Negative
+The course was very well-organized,4,ML-101,Philosophy of Artificial Intelligence,Dr. Jane Doe,Medium,Positive
+I loved the interactive quizzes,5,STAT-303,Economics for Business,Dr. Jane Doe,Medium,Positive
+The instructor was very knowledgeable,1,PHIL-505,Introduction to Machine Learning,Dr. John Smith,Easy,Negative
+I loved the interactive quizzes,4,STAT-303,Statistics for Data Science,Dr. John Smith,Medium,Positive
+I loved the interactive quizzes,3,PHIL-505,Statistics for Data Science,Dr. Bob Johnson,Easy,Negative
+I didn't like the way the course was paced,5,ECON-404,Data Structures and Algorithms,Dr. John Smith,Medium,Positive
+I loved the interactive quizzes,4,CS-202,Introduction to Machine Learning,Dr. Mike Davis,Hard,Positive
+I didn't like the way the course was paced,5,PHIL-505,Data Structures and Algorithms,Dr. Mike Davis,Medium,Positive
+The instructor was very knowledgeable,1,STAT-303,Data Structures and Algorithms,Dr. Alice Brown,Hard,Negative
+I didn't like the way the course was paced,3,STAT-303,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Medium,Negative
+The instructor was not very engaging,1,STAT-303,Economics for Business,Dr. Bob Johnson,Medium,Negative
+The course was perfect for beginners,5,ECON-404,Statistics for Data Science,Dr. John Smith,Hard,Positive
+The instructor was very knowledgeable,2,CS-202,Introduction to Machine Learning,Dr. Mike Davis,Medium,Negative
+The instructor was very responsive,4,STAT-303,Introduction to Machine Learning,Dr. Alice Brown,Hard,Positive
+The course was too easy,1,CS-202,Economics for Business,Dr. John Smith,Hard,Negative
+This course was amazing!,1,ECON-404,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Hard,Negative
+The course was perfect for beginners,1,STAT-303,Philosophy of Artificial Intelligence,Dr. John Smith,Medium,Negative
+I loved the interactive quizzes,5,STAT-303,Statistics for Data Science,Dr. John Smith,Medium,Positive
+The course was perfect for beginners,2,ECON-404,Philosophy of Artificial Intelligence,Dr. John Smith,Medium,Negative
+The course was too easy,2,ML-101,Statistics for Data Science,Dr. Alice Brown,Hard,Negative
+This course was amazing!,5,STAT-303,Data Structures and Algorithms,Dr. Alice Brown,Hard,Positive
+I loved the interactive quizzes,4,STAT-303,Data Structures and Algorithms,Dr. Alice Brown,Medium,Positive
+I was disappointed with the lack of hands-on exercises,4,ECON-404,Data Structures and Algorithms,Dr. Jane Doe,Easy,Positive
+The course was too easy,5,PHIL-505,Philosophy of Artificial Intelligence,Dr. Alice Brown,Hard,Positive
+The instructor was very responsive,5,PHIL-505,Introduction to Machine Learning,Dr. Alice Brown,Easy,Positive
+The instructor was not very engaging,5,STAT-303,Economics for Business,Dr. Alice Brown,Easy,Positive
+The instructor was very knowledgeable,2,CS-202,Introduction to Machine Learning,Dr. Mike Davis,Medium,Negative
+The instructor was not very engaging,2,PHIL-505,Introduction to Machine Learning,Dr. John Smith,Easy,Negative
+The instructor was very responsive,5,CS-202,Introduction to Machine Learning,Dr. Alice Brown,Hard,Positive
+The instructor was very knowledgeable,1,CS-202,Economics for Business,Dr. Jane Doe,Easy,Negative
+The instructor was not very engaging,2,ML-101,Economics for Business,Dr. Mike Davis,Medium,Negative
+I was disappointed with the lack of hands-on exercises,4,PHIL-505,Introduction to Machine Learning,Dr. Alice Brown,Medium,Positive
+I was disappointed with the lack of hands-on exercises,1,STAT-303,Data Structures and Algorithms,Dr. Mike Davis,Easy,Negative
+The course was perfect for beginners,5,STAT-303,Introduction to Machine Learning,Dr. Mike Davis,Easy,Positive
+I didn't like the way the course was paced,1,PHIL-505,Statistics for Data Science,Dr. Mike Davis,Easy,Negative
+The course was perfect for beginners,5,ML-101,Statistics for Data Science,Dr. Bob Johnson,Easy,Positive
+The course was very well-organized,4,STAT-303,Economics for Business,Dr. John Smith,Easy,Positive
+The instructor was not very engaging,5,STAT-303,Data Structures and Algorithms,Dr. Jane Doe,Medium,Positive
+The instructor was very responsive,2,PHIL-505,Statistics for Data Science,Dr. John Smith,Hard,Negative
+This course was amazing!,1,ML-101,Statistics for Data Science,Dr. Mike Davis,Medium,Negative
+The instructor was very responsive,3,ECON-404,Economics for Business,Dr. Mike Davis,Medium,Negative
+The instructor was not very engaging,4,CS-202,Data Structures and Algorithms,Dr. Alice Brown,Hard,Positive
+The course was very well-organized,5,STAT-303,Data Structures and Algorithms,Dr. John Smith,Hard,Positive
+I loved the interactive quizzes,1,CS-202,Data Structures and Algorithms,Dr. Bob Johnson,Hard,Negative
+I loved the interactive quizzes,5,ML-101,Introduction to Machine Learning,Dr. Alice Brown,Hard,Positive
+The course was very well-organized,3,ECON-404,Statistics for Data Science,Dr. Mike Davis,Hard,Negative
+I was disappointed with the lack of hands-on exercises,4,ML-101,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Easy,Positive
+The course was very well-organized,3,STAT-303,Data Structures and Algorithms,Dr. Bob Johnson,Hard,Negative
+I didn't like the way the course was paced,3,STAT-303,Data Structures and Algorithms,Dr. John Smith,Hard,Negative
+The instructor was very knowledgeable,3,PHIL-505,Introduction to Machine Learning,Dr. John Smith,Medium,Negative
+The course was very well-organized,3,STAT-303,Data Structures and Algorithms,Dr. John Smith,Medium,Negative
+I didn't like the way the course was paced,3,CS-202,Economics for Business,Dr. John Smith,Easy,Negative
+I loved the interactive quizzes,4,ECON-404,Statistics for Data Science,Dr. John Smith,Medium,Positive
+I loved the interactive quizzes,2,ML-101,Philosophy of Artificial Intelligence,Dr. John Smith,Easy,Negative
+The course was too easy,1,ML-101,Statistics for Data Science,Dr. John Smith,Hard,Negative
+The course was too easy,1,CS-202,Data Structures and Algorithms,Dr. Mike Davis,Medium,Negative
+The instructor was very responsive,5,CS-202,Philosophy of Artificial Intelligence,Dr. Alice Brown,Hard,Positive
+The course was too easy,2,ECON-404,Philosophy of Artificial Intelligence,Dr. Mike Davis,Medium,Negative
+I didn't like the way the course was paced,4,CS-202,Philosophy of Artificial Intelligence,Dr. Alice Brown,Easy,Positive
+The course was very well-organized,3,ML-101,Data Structures and Algorithms,Dr. Bob Johnson,Medium,Negative
+The instructor was very responsive,3,STAT-303,Introduction to Machine Learning,Dr. Mike Davis,Medium,Negative
+This course was amazing!,3,ML-101,Statistics for Data Science,Dr. Alice Brown,Easy,Negative
+The instructor was not very engaging,3,PHIL-505,Economics for Business,Dr. Bob Johnson,Hard,Negative
+The course was too easy,4,ECON-404,Introduction to Machine Learning,Dr. Jane Doe,Easy,Positive
+The course was too easy,1,STAT-303,Introduction to Machine Learning,Dr. John Smith,Medium,Negative
+The course was perfect for beginners,5,STAT-303,Data Structures and Algorithms,Dr. Mike Davis,Hard,Positive
+The course was too easy,5,CS-202,Philosophy of Artificial Intelligence,Dr. John Smith,Medium,Positive
+This course was amazing!,2,PHIL-505,Data Structures and Algorithms,Dr. Alice Brown,Medium,Negative
+The course was too easy,1,PHIL-505,Introduction to Machine Learning,Dr. John Smith,Medium,Negative
+The instructor was very knowledgeable,2,STAT-303,Introduction to Machine Learning,Dr. Alice Brown,Hard,Negative
+The instructor was not very engaging,4,PHIL-505,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Easy,Positive
+The instructor was very knowledgeable,2,CS-202,Philosophy of Artificial Intelligence,Dr. Jane Doe,Hard,Negative
+I was disappointed with the lack of hands-on exercises,5,PHIL-505,Philosophy of Artificial Intelligence,Dr. Alice Brown,Medium,Positive
+The instructor was very knowledgeable,5,ECON-404,Introduction to Machine Learning,Dr. John Smith,Easy,Positive
+This course was amazing!,2,ECON-404,Introduction to Machine Learning,Dr. Bob Johnson,Easy,Negative
+I didn't like the way the course was paced,3,CS-202,Statistics for Data Science,Dr. Alice Brown,Easy,Negative
+The instructor was not very engaging,2,PHIL-505,Data Structures and Algorithms,Dr. Bob Johnson,Medium,Negative
+The instructor was very knowledgeable,3,ECON-404,Data Structures and Algorithms,Dr. Alice Brown,Hard,Negative
+I didn't like the way the course was paced,2,ECON-404,Economics for Business,Dr. John Smith,Hard,Negative
+I didn't like the way the course was paced,4,STAT-303,Introduction to Machine Learning,Dr. Bob Johnson,Easy,Positive
+The course was too easy,2,ML-101,Statistics for Data Science,Dr. Mike Davis,Easy,Negative
+I was disappointed with the lack of hands-on exercises,5,CS-202,Philosophy of Artificial Intelligence,Dr. Mike Davis,Hard,Positive
+The instructor was not very engaging,4,CS-202,Economics for Business,Dr. Bob Johnson,Medium,Positive
+I loved the interactive quizzes,5,ECON-404,Philosophy of Artificial Intelligence,Dr. Jane Doe,Hard,Positive
+The course was very well-organized,5,CS-202,Statistics for Data Science,Dr. Mike Davis,Hard,Positive
+The course was too easy,3,ML-101,Economics for Business,Dr. Jane Doe,Medium,Negative
+This course was amazing!,1,ECON-404,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Medium,Negative
+The instructor was very responsive,5,ECON-404,Introduction to Machine Learning,Dr. Alice Brown,Hard,Positive
+The instructor was very knowledgeable,4,CS-202,Philosophy of Artificial Intelligence,Dr. Alice Brown,Easy,Positive
+I didn't like the way the course was paced,2,CS-202,Philosophy of Artificial Intelligence,Dr. Mike Davis,Hard,Negative
+This course was amazing!,2,CS-202,Data Structures and Algorithms,Dr. Alice Brown,Medium,Negative
+I was disappointed with the lack of hands-on exercises,5,PHIL-505,Philosophy of Artificial Intelligence,Dr. John Smith,Easy,Positive
+The instructor was very responsive,5,ML-101,Data Structures and Algorithms,Dr. Alice Brown,Medium,Positive
+The course was very well-organized,5,ML-101,Introduction to Machine Learning,Dr. John Smith,Medium,Positive
+The course was perfect for beginners,5,ML-101,Philosophy of Artificial Intelligence,Dr. Alice Brown,Easy,Positive
+The course was too easy,1,CS-202,Philosophy of Artificial Intelligence,Dr. John Smith,Easy,Negative
+The instructor was very responsive,3,ML-101,Introduction to Machine Learning,Dr. John Smith,Hard,Negative
+The course was perfect for beginners,3,CS-202,Introduction to Machine Learning,Dr. John Smith,Easy,Negative
+The course was very well-organized,1,ML-101,Statistics for Data Science,Dr. Jane Doe,Easy,Negative
+The course was perfect for beginners,2,CS-202,Data Structures and Algorithms,Dr. Jane Doe,Easy,Negative
+The course was too easy,3,PHIL-505,Economics for Business,Dr. Mike Davis,Medium,Negative
+I loved the interactive quizzes,3,ECON-404,Data Structures and Algorithms,Dr. Bob Johnson,Easy,Negative
+I loved the interactive quizzes,2,PHIL-505,Philosophy of Artificial Intelligence,Dr. Alice Brown,Medium,Negative
+This course was amazing!,1,CS-202,Economics for Business,Dr. Jane Doe,Easy,Negative
+The course was too easy,2,ECON-404,Introduction to Machine Learning,Dr. John Smith,Medium,Negative
+I didn't like the way the course was paced,4,PHIL-505,Introduction to Machine Learning,Dr. Jane Doe,Easy,Positive
+I loved the interactive quizzes,5,CS-202,Data Structures and Algorithms,Dr. Alice Brown,Hard,Positive
+I was disappointed with the lack of hands-on exercises,5,ML-101,Introduction to Machine Learning,Dr. John Smith,Easy,Positive
+I was disappointed with the lack of hands-on exercises,1,ML-101,Economics for Business,Dr. Jane Doe,Easy,Negative
+I loved the interactive quizzes,2,ECON-404,Introduction to Machine Learning,Dr. Mike Davis,Easy,Negative
+The course was too easy,2,PHIL-505,Introduction to Machine Learning,Dr. Alice Brown,Easy,Negative
+The course was very well-organized,3,CS-202,Philosophy of Artificial Intelligence,Dr. Mike Davis,Easy,Negative
+The instructor was very knowledgeable,1,ECON-404,Philosophy of Artificial Intelligence,Dr. Alice Brown,Hard,Negative
+I was disappointed with the lack of hands-on exercises,2,ML-101,Philosophy of Artificial Intelligence,Dr. Mike Davis,Medium,Negative
+The instructor was very knowledgeable,1,ECON-404,Introduction to Machine Learning,Dr. Jane Doe,Medium,Negative
+The instructor was very responsive,3,ML-101,Economics for Business,Dr. Alice Brown,Medium,Negative
+I was disappointed with the lack of hands-on exercises,2,CS-202,Introduction to Machine Learning,Dr. John Smith,Medium,Negative
+The instructor was very responsive,1,PHIL-505,Economics for Business,Dr. Alice Brown,Easy,Negative
+The instructor was very knowledgeable,5,ECON-404,Introduction to Machine Learning,Dr. Jane Doe,Medium,Positive
+The course was very well-organized,1,STAT-303,Statistics for Data Science,Dr. Alice Brown,Medium,Negative
+The instructor was very responsive,5,ML-101,Data Structures and Algorithms,Dr. Alice Brown,Hard,Positive
+The instructor was not very engaging,5,CS-202,Economics for Business,Dr. Jane Doe,Medium,Positive
+This course was amazing!,4,STAT-303,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Easy,Positive
+The instructor was very responsive,3,CS-202,Introduction to Machine Learning,Dr. Jane Doe,Easy,Negative
+I didn't like the way the course was paced,4,CS-202,Data Structures and Algorithms,Dr. John Smith,Easy,Positive
+I didn't like the way the course was paced,4,STAT-303,Introduction to Machine Learning,Dr. Mike Davis,Hard,Positive
+I loved the interactive quizzes,1,PHIL-505,Data Structures and Algorithms,Dr. Jane Doe,Easy,Negative
+The course was very well-organized,4,PHIL-505,Introduction to Machine Learning,Dr. Bob Johnson,Medium,Positive
+The instructor was very responsive,4,ML-101,Economics for Business,Dr. Bob Johnson,Medium,Positive
+The course was perfect for beginners,2,CS-202,Statistics for Data Science,Dr. Jane Doe,Easy,Negative
+The course was very well-organized,5,CS-202,Data Structures and Algorithms,Dr. Jane Doe,Medium,Positive
+The instructor was very knowledgeable,3,CS-202,Statistics for Data Science,Dr. Mike Davis,Medium,Negative
+I didn't like the way the course was paced,3,STAT-303,Philosophy of Artificial Intelligence,Dr. Jane Doe,Hard,Negative
+I didn't like the way the course was paced,4,STAT-303,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Medium,Positive
+The instructor was very responsive,1,ML-101,Data Structures and Algorithms,Dr. Jane Doe,Medium,Negative
+The course was perfect for beginners,3,ECON-404,Data Structures and Algorithms,Dr. John Smith,Medium,Negative
+I loved the interactive quizzes,1,ECON-404,Introduction to Machine Learning,Dr. Alice Brown,Medium,Negative
+The course was very well-organized,2,ECON-404,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Hard,Negative
+The course was too easy,2,PHIL-505,Introduction to Machine Learning,Dr. Jane Doe,Hard,Negative
+The instructor was very knowledgeable,4,STAT-303,Data Structures and Algorithms,Dr. John Smith,Easy,Positive
+The instructor was very responsive,5,STAT-303,Introduction to Machine Learning,Dr. Alice Brown,Easy,Positive
+The course was perfect for beginners,2,PHIL-505,Philosophy of Artificial Intelligence,Dr. Alice Brown,Medium,Negative
+I loved the interactive quizzes,1,STAT-303,Philosophy of Artificial Intelligence,Dr. Alice Brown,Hard,Negative
+The course was too easy,1,STAT-303,Philosophy of Artificial Intelligence,Dr. Jane Doe,Medium,Negative
+The instructor was not very engaging,5,STAT-303,Introduction to Machine Learning,Dr. Mike Davis,Easy,Positive
+The instructor was not very engaging,3,PHIL-505,Data Structures and Algorithms,Dr. John Smith,Easy,Negative
+I didn't like the way the course was paced,2,ECON-404,Introduction to Machine Learning,Dr. Alice Brown,Medium,Negative
+The instructor was very knowledgeable,5,ECON-404,Philosophy of Artificial Intelligence,Dr. Jane Doe,Hard,Positive
+I loved the interactive quizzes,3,CS-202,Economics for Business,Dr. Jane Doe,Easy,Negative
+The course was very well-organized,4,PHIL-505,Statistics for Data Science,Dr. Mike Davis,Hard,Positive
+The instructor was very knowledgeable,1,ECON-404,Statistics for Data Science,Dr. Jane Doe,Hard,Negative
+The instructor was not very engaging,2,CS-202,Economics for Business,Dr. John Smith,Hard,Negative
+This course was amazing!,4,CS-202,Statistics for Data Science,Dr. John Smith,Easy,Positive
+The instructor was not very engaging,3,STAT-303,Statistics for Data Science,Dr. Alice Brown,Easy,Negative
+This course was amazing!,3,ML-101,Introduction to Machine Learning,Dr. Alice Brown,Easy,Negative
+The instructor was very knowledgeable,3,STAT-303,Economics for Business,Dr. John Smith,Easy,Negative
+This course was amazing!,3,ML-101,Statistics for Data Science,Dr. Mike Davis,Easy,Negative
+The course was too easy,4,CS-202,Economics for Business,Dr. Bob Johnson,Easy,Positive
+The course was perfect for beginners,4,CS-202,Statistics for Data Science,Dr. Bob Johnson,Hard,Positive
+I was disappointed with the lack of hands-on exercises,1,PHIL-505,Introduction to Machine Learning,Dr. Jane Doe,Hard,Negative
+The course was perfect for beginners,1,STAT-303,Philosophy of Artificial Intelligence,Dr. Alice Brown,Medium,Negative
+The instructor was not very engaging,1,ML-101,Statistics for Data Science,Dr. Mike Davis,Medium,Negative
+The instructor was not very engaging,2,CS-202,Statistics for Data Science,Dr. Bob Johnson,Medium,Negative
+The instructor was not very engaging,5,CS-202,Philosophy of Artificial Intelligence,Dr. Jane Doe,Hard,Positive
+The course was very well-organized,3,STAT-303,Philosophy of Artificial Intelligence,Dr. Alice Brown,Medium,Negative
+I was disappointed with the lack of hands-on exercises,3,STAT-303,Statistics for Data Science,Dr. Mike Davis,Easy,Negative
+I didn't like the way the course was paced,2,STAT-303,Economics for Business,Dr. John Smith,Easy,Negative
+This course was amazing!,2,ECON-404,Economics for Business,Dr. Jane Doe,Easy,Negative
+The instructor was very knowledgeable,3,ECON-404,Data Structures and Algorithms,Dr. Bob Johnson,Medium,Negative
+The course was very well-organized,3,ML-101,Introduction to Machine Learning,Dr. Mike Davis,Medium,Negative
+The instructor was very responsive,1,ECON-404,Economics for Business,Dr. John Smith,Medium,Negative
+I loved the interactive quizzes,4,CS-202,Data Structures and Algorithms,Dr. Jane Doe,Hard,Positive
+I didn't like the way the course was paced,2,PHIL-505,Data Structures and Algorithms,Dr. Alice Brown,Medium,Negative
+I loved the interactive quizzes,1,PHIL-505,Introduction to Machine Learning,Dr. Alice Brown,Medium,Negative
+The instructor was very responsive,3,ML-101,Philosophy of Artificial Intelligence,Dr. Alice Brown,Easy,Negative
+The course was perfect for beginners,1,STAT-303,Introduction to Machine Learning,Dr. Jane Doe,Easy,Negative
+This course was amazing!,5,ML-101,Economics for Business,Dr. Bob Johnson,Medium,Positive
+I was disappointed with the lack of hands-on exercises,5,PHIL-505,Data Structures and Algorithms,Dr. Alice Brown,Hard,Positive
+The instructor was very responsive,4,STAT-303,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Easy,Positive
+I didn't like the way the course was paced,5,CS-202,Economics for Business,Dr. Alice Brown,Hard,Positive
+The course was very well-organized,1,ECON-404,Statistics for Data Science,Dr. Bob Johnson,Medium,Negative
+I didn't like the way the course was paced,4,PHIL-505,Introduction to Machine Learning,Dr. Alice Brown,Hard,Positive
+The instructor was very responsive,4,STAT-303,Philosophy of Artificial Intelligence,Dr. Jane Doe,Medium,Positive
+The instructor was very responsive,5,PHIL-505,Statistics for Data Science,Dr. Alice Brown,Medium,Positive
+The course was very well-organized,1,PHIL-505,Introduction to Machine Learning,Dr. Bob Johnson,Hard,Negative
+The course was too easy,3,ECON-404,Introduction to Machine Learning,Dr. Bob Johnson,Hard,Negative
+The instructor was very knowledgeable,4,CS-202,Philosophy of Artificial Intelligence,Dr. Jane Doe,Easy,Positive
+The instructor was not very engaging,5,PHIL-505,Philosophy of Artificial Intelligence,Dr. John Smith,Medium,Positive
+I was disappointed with the lack of hands-on exercises,1,ML-101,Philosophy of Artificial Intelligence,Dr. Mike Davis,Easy,Negative
+The course was perfect for beginners,2,ECON-404,Introduction to Machine Learning,Dr. Mike Davis,Medium,Negative
+The instructor was very knowledgeable,3,PHIL-505,Economics for Business,Dr. Mike Davis,Medium,Negative
+This course was amazing!,3,CS-202,Data Structures and Algorithms,Dr. John Smith,Easy,Negative
+The course was perfect for beginners,5,CS-202,Philosophy of Artificial Intelligence,Dr. John Smith,Hard,Positive
+I loved the interactive quizzes,3,ECON-404,Data Structures and Algorithms,Dr. Bob Johnson,Easy,Negative
+I loved the interactive quizzes,1,PHIL-505,Introduction to Machine Learning,Dr. John Smith,Easy,Negative
+The instructor was very responsive,4,CS-202,Introduction to Machine Learning,Dr. John Smith,Hard,Positive
+This course was amazing!,1,ECON-404,Statistics for Data Science,Dr. Alice Brown,Medium,Negative
+The course was very well-organized,3,ML-101,Introduction to Machine Learning,Dr. Alice Brown,Easy,Negative
+The instructor was very knowledgeable,4,CS-202,Philosophy of Artificial Intelligence,Dr. Alice Brown,Easy,Positive
+The instructor was very responsive,2,PHIL-505,Statistics for Data Science,Dr. Mike Davis,Hard,Negative
+The instructor was very knowledgeable,2,PHIL-505,Philosophy of Artificial Intelligence,Dr. Jane Doe,Easy,Negative
+The instructor was not very engaging,1,CS-202,Philosophy of Artificial Intelligence,Dr. Jane Doe,Easy,Negative
+This course was amazing!,2,ML-101,Philosophy of Artificial Intelligence,Dr. John Smith,Hard,Negative
+I loved the interactive quizzes,5,CS-202,Statistics for Data Science,Dr. Mike Davis,Hard,Positive
+The course was very well-organized,4,CS-202,Economics for Business,Dr. Bob Johnson,Easy,Positive
+The instructor was very responsive,4,CS-202,Introduction to Machine Learning,Dr. Mike Davis,Easy,Positive
+The course was too easy,5,ECON-404,Philosophy of Artificial Intelligence,Dr. John Smith,Hard,Positive
+The course was very well-organized,5,ECON-404,Data Structures and Algorithms,Dr. Mike Davis,Easy,Positive
+The instructor was very responsive,3,ECON-404,Philosophy of Artificial Intelligence,Dr. Mike Davis,Easy,Negative
+I loved the interactive quizzes,5,ECON-404,Economics for Business,Dr. Bob Johnson,Medium,Positive
+I loved the interactive quizzes,4,ML-101,Introduction to Machine Learning,Dr. Bob Johnson,Hard,Positive
+I didn't like the way the course was paced,3,ECON-404,Data Structures and Algorithms,Dr. Mike Davis,Medium,Negative
+The course was too easy,3,ECON-404,Introduction to Machine Learning,Dr. Bob Johnson,Medium,Negative
+I didn't like the way the course was paced,1,STAT-303,Introduction to Machine Learning,Dr. John Smith,Easy,Negative
+The instructor was not very engaging,5,CS-202,Data Structures and Algorithms,Dr. Jane Doe,Medium,Positive
+This course was amazing!,3,ML-101,Statistics for Data Science,Dr. Alice Brown,Easy,Negative
+The course was very well-organized,2,STAT-303,Economics for Business,Dr. John Smith,Easy,Negative
+The course was perfect for beginners,4,CS-202,Data Structures and Algorithms,Dr. Bob Johnson,Medium,Positive
+This course was amazing!,1,CS-202,Data Structures and Algorithms,Dr. Jane Doe,Medium,Negative
+The instructor was very responsive,5,STAT-303,Economics for Business,Dr. John Smith,Medium,Positive
+I loved the interactive quizzes,2,CS-202,Philosophy of Artificial Intelligence,Dr. John Smith,Medium,Negative
+The course was too easy,1,CS-202,Economics for Business,Dr. Bob Johnson,Easy,Negative
+I loved the interactive quizzes,3,STAT-303,Philosophy of Artificial Intelligence,Dr. Alice Brown,Easy,Negative
+The instructor was not very engaging,4,ML-101,Economics for Business,Dr. Jane Doe,Easy,Positive
+I was disappointed with the lack of hands-on exercises,2,PHIL-505,Introduction to Machine Learning,Dr. John Smith,Hard,Negative
+The instructor was very knowledgeable,1,CS-202,Economics for Business,Dr. John Smith,Easy,Negative
+The instructor was not very engaging,1,ML-101,Data Structures and Algorithms,Dr. Mike Davis,Hard,Negative
+I didn't like the way the course was paced,2,ECON-404,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Medium,Negative
+The instructor was not very engaging,3,STAT-303,Introduction to Machine Learning,Dr. Jane Doe,Hard,Negative
+I loved the interactive quizzes,3,ECON-404,Economics for Business,Dr. Bob Johnson,Hard,Negative
+The course was too easy,2,ECON-404,Introduction to Machine Learning,Dr. Jane Doe,Easy,Negative
+I loved the interactive quizzes,3,CS-202,Statistics for Data Science,Dr. Mike Davis,Medium,Negative
+The course was very well-organized,5,CS-202,Introduction to Machine Learning,Dr. Mike Davis,Easy,Positive
+I loved the interactive quizzes,1,STAT-303,Introduction to Machine Learning,Dr. Bob Johnson,Medium,Negative
+The instructor was not very engaging,4,ECON-404,Introduction to Machine Learning,Dr. Jane Doe,Easy,Positive
+The instructor was not very engaging,2,STAT-303,Philosophy of Artificial Intelligence,Dr. Jane Doe,Easy,Negative
+The instructor was very knowledgeable,4,STAT-303,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Hard,Positive
+The instructor was very responsive,4,STAT-303,Philosophy of Artificial Intelligence,Dr. Alice Brown,Medium,Positive
+The course was too easy,3,ECON-404,Introduction to Machine Learning,Dr. Mike Davis,Easy,Negative
+The instructor was very responsive,4,ECON-404,Data Structures and Algorithms,Dr. Jane Doe,Hard,Positive
+I loved the interactive quizzes,2,CS-202,Introduction to Machine Learning,Dr. John Smith,Easy,Negative
+The instructor was very responsive,2,STAT-303,Data Structures and Algorithms,Dr. Alice Brown,Hard,Negative
+The instructor was very responsive,4,STAT-303,Introduction to Machine Learning,Dr. Bob Johnson,Hard,Positive
+The instructor was very knowledgeable,3,CS-202,Statistics for Data Science,Dr. Mike Davis,Medium,Negative
+I was disappointed with the lack of hands-on exercises,4,STAT-303,Statistics for Data Science,Dr. Alice Brown,Medium,Positive
+The instructor was very knowledgeable,3,PHIL-505,Introduction to Machine Learning,Dr. Alice Brown,Hard,Negative
+The course was too easy,5,ML-101,Statistics for Data Science,Dr. Bob Johnson,Easy,Positive
+I was disappointed with the lack of hands-on exercises,2,ECON-404,Philosophy of Artificial Intelligence,Dr. Jane Doe,Easy,Negative
+The instructor was very knowledgeable,1,STAT-303,Philosophy of Artificial Intelligence,Dr. John Smith,Easy,Negative
+The course was very well-organized,1,CS-202,Statistics for Data Science,Dr. John Smith,Hard,Negative
+The course was very well-organized,4,PHIL-505,Philosophy of Artificial Intelligence,Dr. Mike Davis,Hard,Positive
+The instructor was very knowledgeable,5,CS-202,Data Structures and Algorithms,Dr. Jane Doe,Easy,Positive
+The course was too easy,5,CS-202,Statistics for Data Science,Dr. Bob Johnson,Easy,Positive
+The course was very well-organized,5,CS-202,Statistics for Data Science,Dr. Mike Davis,Easy,Positive
+The instructor was not very engaging,5,ECON-404,Data Structures and Algorithms,Dr. John Smith,Medium,Positive
+The instructor was very knowledgeable,3,ML-101,Introduction to Machine Learning,Dr. Jane Doe,Easy,Negative
+The course was very well-organized,2,ECON-404,Philosophy of Artificial Intelligence,Dr. Alice Brown,Medium,Negative
+This course was amazing!,5,STAT-303,Economics for Business,Dr. Mike Davis,Easy,Positive
+The course was perfect for beginners,5,ML-101,Introduction to Machine Learning,Dr. Mike Davis,Medium,Positive
+The course was too easy,1,CS-202,Introduction to Machine Learning,Dr. Mike Davis,Hard,Negative
+The course was too easy,3,PHIL-505,Introduction to Machine Learning,Dr. Jane Doe,Easy,Negative
+I didn't like the way the course was paced,5,ML-101,Statistics for Data Science,Dr. Jane Doe,Hard,Positive
+This course was amazing!,3,STAT-303,Economics for Business,Dr. John Smith,Medium,Negative
+I was disappointed with the lack of hands-on exercises,2,STAT-303,Philosophy of Artificial Intelligence,Dr. Alice Brown,Easy,Negative
+The instructor was very knowledgeable,1,PHIL-505,Philosophy of Artificial Intelligence,Dr. John Smith,Hard,Negative
+I was disappointed with the lack of hands-on exercises,2,CS-202,Economics for Business,Dr. Jane Doe,Hard,Negative
+The course was too easy,5,ML-101,Data Structures and Algorithms,Dr. Alice Brown,Hard,Positive
+This course was amazing!,1,ECON-404,Introduction to Machine Learning,Dr. Jane Doe,Medium,Negative
+The instructor was not very engaging,5,PHIL-505,Data Structures and Algorithms,Dr. Mike Davis,Hard,Positive
+The instructor was not very engaging,3,PHIL-505,Data Structures and Algorithms,Dr. Jane Doe,Hard,Negative
+The course was too easy,5,CS-202,Data Structures and Algorithms,Dr. Mike Davis,Hard,Positive
+This course was amazing!,4,STAT-303,Data Structures and Algorithms,Dr. John Smith,Easy,Positive
+The instructor was not very engaging,3,STAT-303,Economics for Business,Dr. John Smith,Easy,Negative
+This course was amazing!,2,PHIL-505,Economics for Business,Dr. Jane Doe,Easy,Negative
+The instructor was very knowledgeable,4,PHIL-505,Introduction to Machine Learning,Dr. Mike Davis,Hard,Positive
+The course was very well-organized,2,ML-101,Economics for Business,Dr. Mike Davis,Easy,Negative
+The instructor was not very engaging,5,ECON-404,Economics for Business,Dr. Bob Johnson,Easy,Positive
+The instructor was not very engaging,3,CS-202,Data Structures and Algorithms,Dr. Bob Johnson,Easy,Negative
+The course was perfect for beginners,5,PHIL-505,Economics for Business,Dr. Mike Davis,Easy,Positive
+The instructor was not very engaging,5,PHIL-505,Introduction to Machine Learning,Dr. John Smith,Hard,Positive
+I loved the interactive quizzes,1,STAT-303,Philosophy of Artificial Intelligence,Dr. John Smith,Hard,Negative
+The course was very well-organized,3,ECON-404,Data Structures and Algorithms,Dr. Bob Johnson,Medium,Negative
+I was disappointed with the lack of hands-on exercises,4,PHIL-505,Philosophy of Artificial Intelligence,Dr. Mike Davis,Medium,Positive
+The course was very well-organized,1,ECON-404,Statistics for Data Science,Dr. Jane Doe,Hard,Negative
+The course was very well-organized,2,CS-202,Economics for Business,Dr. John Smith,Medium,Negative
+The course was too easy,1,ML-101,Introduction to Machine Learning,Dr. Mike Davis,Medium,Negative
+I was disappointed with the lack of hands-on exercises,4,CS-202,Data Structures and Algorithms,Dr. John Smith,Easy,Positive
+I didn't like the way the course was paced,1,ECON-404,Philosophy of Artificial Intelligence,Dr. Alice Brown,Easy,Negative
+This course was amazing!,4,PHIL-505,Introduction to Machine Learning,Dr. Bob Johnson,Easy,Positive
+The instructor was very responsive,3,ML-101,Statistics for Data Science,Dr. Alice Brown,Medium,Negative
+The instructor was very responsive,1,ECON-404,Statistics for Data Science,Dr. Bob Johnson,Medium,Negative
+I didn't like the way the course was paced,2,PHIL-505,Philosophy of Artificial Intelligence,Dr. Jane Doe,Easy,Negative
+The instructor was very responsive,4,PHIL-505,Statistics for Data Science,Dr. Jane Doe,Easy,Positive
+The instructor was not very engaging,3,STAT-303,Statistics for Data Science,Dr. Mike Davis,Easy,Negative
+The course was very well-organized,4,ECON-404,Introduction to Machine Learning,Dr. Mike Davis,Hard,Positive
+The course was too easy,2,PHIL-505,Introduction to Machine Learning,Dr. Jane Doe,Hard,Negative
+The instructor was very responsive,1,ECON-404,Philosophy of Artificial Intelligence,Dr. Jane Doe,Easy,Negative
+This course was amazing!,2,CS-202,Statistics for Data Science,Dr. John Smith,Medium,Negative
+The instructor was not very engaging,1,ECON-404,Philosophy of Artificial Intelligence,Dr. John Smith,Easy,Negative
+I loved the interactive quizzes,1,STAT-303,Statistics for Data Science,Dr. Bob Johnson,Medium,Negative
+This course was amazing!,5,ECON-404,Economics for Business,Dr. Bob Johnson,Medium,Positive
+The instructor was very responsive,2,PHIL-505,Economics for Business,Dr. Jane Doe,Easy,Negative
+The instructor was very knowledgeable,2,CS-202,Statistics for Data Science,Dr. Alice Brown,Medium,Negative
+The instructor was very responsive,1,ECON-404,Philosophy of Artificial Intelligence,Dr. John Smith,Easy,Negative
+The course was very well-organized,2,STAT-303,Data Structures and Algorithms,Dr. Mike Davis,Hard,Negative
+I loved the interactive quizzes,5,CS-202,Data Structures and Algorithms,Dr. John Smith,Easy,Positive
+This course was amazing!,2,ECON-404,Statistics for Data Science,Dr. Mike Davis,Easy,Negative
+The instructor was not very engaging,2,CS-202,Statistics for Data Science,Dr. Bob Johnson,Medium,Negative
+The course was too easy,2,STAT-303,Data Structures and Algorithms,Dr. Mike Davis,Medium,Negative
+The instructor was very responsive,4,STAT-303,Statistics for Data Science,Dr. Bob Johnson,Hard,Positive
+I didn't like the way the course was paced,1,PHIL-505,Statistics for Data Science,Dr. John Smith,Hard,Negative
+The instructor was not very engaging,4,ML-101,Philosophy of Artificial Intelligence,Dr. John Smith,Medium,Positive
+The instructor was very responsive,1,CS-202,Introduction to Machine Learning,Dr. Alice Brown,Medium,Negative
+The course was too easy,1,PHIL-505,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Easy,Negative
+I didn't like the way the course was paced,2,PHIL-505,Statistics for Data Science,Dr. Jane Doe,Medium,Negative
+The instructor was very knowledgeable,3,CS-202,Data Structures and Algorithms,Dr. Bob Johnson,Medium,Negative
+I was disappointed with the lack of hands-on exercises,4,CS-202,Philosophy of Artificial Intelligence,Dr. Alice Brown,Medium,Positive
+The instructor was not very engaging,3,PHIL-505,Statistics for Data Science,Dr. Alice Brown,Easy,Negative
+The course was too easy,2,STAT-303,Data Structures and Algorithms,Dr. John Smith,Medium,Negative
+The instructor was very knowledgeable,4,CS-202,Introduction to Machine Learning,Dr. John Smith,Medium,Positive
+This course was amazing!,1,STAT-303,Statistics for Data Science,Dr. Bob Johnson,Hard,Negative
+The course was too easy,2,ML-101,Statistics for Data Science,Dr. Bob Johnson,Medium,Negative
+The instructor was very knowledgeable,5,CS-202,Philosophy of Artificial Intelligence,Dr. Jane Doe,Hard,Positive
+I loved the interactive quizzes,2,ECON-404,Economics for Business,Dr. Alice Brown,Easy,Negative
+The course was too easy,4,STAT-303,Data Structures and Algorithms,Dr. Bob Johnson,Hard,Positive
+The instructor was very responsive,3,ML-101,Statistics for Data Science,Dr. Mike Davis,Medium,Negative
+This course was amazing!,1,ML-101,Introduction to Machine Learning,Dr. John Smith,Medium,Negative
+I was disappointed with the lack of hands-on exercises,5,STAT-303,Economics for Business,Dr. John Smith,Medium,Positive
+The instructor was very responsive,5,CS-202,Introduction to Machine Learning,Dr. Jane Doe,Easy,Positive
+The course was too easy,2,PHIL-505,Statistics for Data Science,Dr. Jane Doe,Medium,Negative
+I didn't like the way the course was paced,5,STAT-303,Philosophy of Artificial Intelligence,Dr. Jane Doe,Easy,Positive
+I loved the interactive quizzes,1,ML-101,Philosophy of Artificial Intelligence,Dr. Jane Doe,Medium,Negative
+This course was amazing!,4,CS-202,Data Structures and Algorithms,Dr. Alice Brown,Hard,Positive
+I didn't like the way the course was paced,2,PHIL-505,Data Structures and Algorithms,Dr. John Smith,Hard,Negative
+The instructor was very knowledgeable,5,PHIL-505,Statistics for Data Science,Dr. Mike Davis,Hard,Positive
+I loved the interactive quizzes,4,ECON-404,Introduction to Machine Learning,Dr. Alice Brown,Hard,Positive
+The instructor was very responsive,1,ECON-404,Statistics for Data Science,Dr. John Smith,Hard,Negative
+This course was amazing!,1,PHIL-505,Economics for Business,Dr. Mike Davis,Easy,Negative
+The course was very well-organized,3,CS-202,Philosophy of Artificial Intelligence,Dr. John Smith,Medium,Negative
+The course was too easy,1,CS-202,Introduction to Machine Learning,Dr. Jane Doe,Hard,Negative
+The course was very well-organized,2,STAT-303,Economics for Business,Dr. Jane Doe,Easy,Negative
+I was disappointed with the lack of hands-on exercises,1,STAT-303,Introduction to Machine Learning,Dr. Jane Doe,Medium,Negative
+The course was very well-organized,2,STAT-303,Economics for Business,Dr. Mike Davis,Easy,Negative
+The instructor was very knowledgeable,3,ECON-404,Philosophy of Artificial Intelligence,Dr. John Smith,Medium,Negative
+The course was perfect for beginners,5,CS-202,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Medium,Positive
+This course was amazing!,4,ML-101,Statistics for Data Science,Dr. Jane Doe,Hard,Positive
+I loved the interactive quizzes,4,STAT-303,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Easy,Positive
+I loved the interactive quizzes,2,STAT-303,Introduction to Machine Learning,Dr. Mike Davis,Medium,Negative
+I loved the interactive quizzes,3,STAT-303,Statistics for Data Science,Dr. Jane Doe,Medium,Negative
+The instructor was very responsive,2,CS-202,Introduction to Machine Learning,Dr. John Smith,Hard,Negative
+I didn't like the way the course was paced,2,ML-101,Data Structures and Algorithms,Dr. Mike Davis,Easy,Negative
+The course was perfect for beginners,3,STAT-303,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Easy,Negative
+The instructor was very responsive,3,STAT-303,Economics for Business,Dr. Bob Johnson,Easy,Negative
+The course was too easy,4,STAT-303,Introduction to Machine Learning,Dr. Bob Johnson,Hard,Positive
+The course was very well-organized,3,CS-202,Philosophy of Artificial Intelligence,Dr. Jane Doe,Easy,Negative
+The instructor was very responsive,2,CS-202,Economics for Business,Dr. Mike Davis,Hard,Negative
+The course was very well-organized,1,STAT-303,Economics for Business,Dr. Jane Doe,Medium,Negative
+I was disappointed with the lack of hands-on exercises,1,ECON-404,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Hard,Negative
+I was disappointed with the lack of hands-on exercises,3,CS-202,Statistics for Data Science,Dr. Alice Brown,Medium,Negative
+The instructor was very knowledgeable,4,CS-202,Introduction to Machine Learning,Dr. Mike Davis,Medium,Positive
+The instructor was very knowledgeable,5,CS-202,Philosophy of Artificial Intelligence,Dr. Alice Brown,Medium,Positive
+I didn't like the way the course was paced,2,ECON-404,Statistics for Data Science,Dr. Jane Doe,Easy,Negative
+The course was too easy,1,ECON-404,Introduction to Machine Learning,Dr. John Smith,Medium,Negative
+The instructor was very responsive,1,CS-202,Introduction to Machine Learning,Dr. Alice Brown,Medium,Negative
+The instructor was not very engaging,3,ECON-404,Philosophy of Artificial Intelligence,Dr. Mike Davis,Easy,Negative
+The instructor was very knowledgeable,4,STAT-303,Economics for Business,Dr. Bob Johnson,Medium,Positive
+The instructor was very responsive,4,PHIL-505,Statistics for Data Science,Dr. Bob Johnson,Easy,Positive
+The instructor was very responsive,1,ML-101,Introduction to Machine Learning,Dr. Mike Davis,Easy,Negative
+I was disappointed with the lack of hands-on exercises,5,CS-202,Introduction to Machine Learning,Dr. John Smith,Medium,Positive
+The course was very well-organized,4,STAT-303,Statistics for Data Science,Dr. Bob Johnson,Medium,Positive
+I was disappointed with the lack of hands-on exercises,2,ECON-404,Introduction to Machine Learning,Dr. Bob Johnson,Hard,Negative
+The instructor was very responsive,3,ML-101,Philosophy of Artificial Intelligence,Dr. John Smith,Hard,Negative
+The instructor was very knowledgeable,2,STAT-303,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Hard,Negative
+The instructor was very responsive,2,STAT-303,Economics for Business,Dr. John Smith,Medium,Negative
+The course was perfect for beginners,4,ECON-404,Data Structures and Algorithms,Dr. Alice Brown,Hard,Positive
+The instructor was very responsive,4,ECON-404,Philosophy of Artificial Intelligence,Dr. Alice Brown,Easy,Positive
+The course was perfect for beginners,4,CS-202,Philosophy of Artificial Intelligence,Dr. John Smith,Hard,Positive
+The course was perfect for beginners,2,STAT-303,Philosophy of Artificial Intelligence,Dr. Mike Davis,Medium,Negative
+This course was amazing!,4,PHIL-505,Statistics for Data Science,Dr. Bob Johnson,Easy,Positive
+The course was perfect for beginners,2,ML-101,Introduction to Machine Learning,Dr. John Smith,Medium,Negative
+I was disappointed with the lack of hands-on exercises,4,ML-101,Philosophy of Artificial Intelligence,Dr. John Smith,Easy,Positive
+I didn't like the way the course was paced,2,STAT-303,Statistics for Data Science,Dr. Bob Johnson,Medium,Negative
+The course was perfect for beginners,4,ML-101,Economics for Business,Dr. John Smith,Medium,Positive
+This course was amazing!,3,CS-202,Economics for Business,Dr. Jane Doe,Hard,Negative
+The instructor was not very engaging,5,ML-101,Introduction to Machine Learning,Dr. Alice Brown,Medium,Positive
+The instructor was not very engaging,4,CS-202,Statistics for Data Science,Dr. Jane Doe,Medium,Positive
+The instructor was not very engaging,1,CS-202,Introduction to Machine Learning,Dr. Bob Johnson,Hard,Negative
+The course was very well-organized,3,CS-202,Introduction to Machine Learning,Dr. Jane Doe,Easy,Negative
+I didn't like the way the course was paced,4,ECON-404,Economics for Business,Dr. Bob Johnson,Hard,Positive
+I was disappointed with the lack of hands-on exercises,5,ML-101,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Medium,Positive
+The course was perfect for beginners,1,ML-101,Introduction to Machine Learning,Dr. Bob Johnson,Hard,Negative
+The course was very well-organized,4,STAT-303,Introduction to Machine Learning,Dr. John Smith,Medium,Positive
+The instructor was not very engaging,1,CS-202,Introduction to Machine Learning,Dr. John Smith,Medium,Negative
+The instructor was very knowledgeable,3,ECON-404,Data Structures and Algorithms,Dr. Mike Davis,Medium,Negative
+The course was perfect for beginners,1,STAT-303,Statistics for Data Science,Dr. Mike Davis,Medium,Negative
+This course was amazing!,4,PHIL-505,Introduction to Machine Learning,Dr. Bob Johnson,Medium,Positive
+The instructor was very responsive,1,STAT-303,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Easy,Negative
+The instructor was very responsive,2,PHIL-505,Introduction to Machine Learning,Dr. Mike Davis,Easy,Negative
+The instructor was very knowledgeable,2,ML-101,Philosophy of Artificial Intelligence,Dr. Mike Davis,Easy,Negative
+The course was perfect for beginners,4,ECON-404,Economics for Business,Dr. Alice Brown,Hard,Positive
+The course was perfect for beginners,5,PHIL-505,Statistics for Data Science,Dr. John Smith,Medium,Positive
+The instructor was very responsive,3,PHIL-505,Introduction to Machine Learning,Dr. Bob Johnson,Medium,Negative
+The instructor was not very engaging,2,PHIL-505,Statistics for Data Science,Dr. Bob Johnson,Easy,Negative
+The instructor was very responsive,1,PHIL-505,Economics for Business,Dr. Jane Doe,Medium,Negative
+The course was too easy,2,PHIL-505,Economics for Business,Dr. Jane Doe,Medium,Negative
+The course was too easy,4,STAT-303,Introduction to Machine Learning,Dr. John Smith,Medium,Positive
+This course was amazing!,3,PHIL-505,Introduction to Machine Learning,Dr. Alice Brown,Easy,Negative
+I was disappointed with the lack of hands-on exercises,4,STAT-303,Economics for Business,Dr. John Smith,Easy,Positive
+I loved the interactive quizzes,5,ECON-404,Economics for Business,Dr. Alice Brown,Medium,Positive
+The course was very well-organized,5,ECON-404,Introduction to Machine Learning,Dr. John Smith,Medium,Positive
+The instructor was very knowledgeable,3,CS-202,Economics for Business,Dr. John Smith,Easy,Negative
+The course was very well-organized,5,ML-101,Economics for Business,Dr. Jane Doe,Medium,Positive
+The instructor was not very engaging,5,ML-101,Data Structures and Algorithms,Dr. John Smith,Medium,Positive
+The course was too easy,2,STAT-303,Data Structures and Algorithms,Dr. Alice Brown,Hard,Negative
+The course was very well-organized,2,ECON-404,Statistics for Data Science,Dr. Alice Brown,Hard,Negative
+The instructor was very responsive,4,CS-202,Introduction to Machine Learning,Dr. Alice Brown,Medium,Positive
+The course was very well-organized,3,CS-202,Economics for Business,Dr. John Smith,Medium,Negative
+The course was too easy,4,ML-101,Economics for Business,Dr. Jane Doe,Easy,Positive
+The course was very well-organized,2,STAT-303,Introduction to Machine Learning,Dr. Bob Johnson,Hard,Negative
+I was disappointed with the lack of hands-on exercises,1,ML-101,Philosophy of Artificial Intelligence,Dr. John Smith,Medium,Negative
+I was disappointed with the lack of hands-on exercises,5,ML-101,Statistics for Data Science,Dr. Alice Brown,Easy,Positive
+I didn't like the way the course was paced,3,ML-101,Data Structures and Algorithms,Dr. Alice Brown,Hard,Negative
+The course was very well-organized,1,ML-101,Data Structures and Algorithms,Dr. Jane Doe,Hard,Negative
+The instructor was very responsive,4,ML-101,Introduction to Machine Learning,Dr. Mike Davis,Easy,Positive
+The instructor was very knowledgeable,4,PHIL-505,Introduction to Machine Learning,Dr. John Smith,Easy,Positive
+I didn't like the way the course was paced,5,ML-101,Data Structures and Algorithms,Dr. Jane Doe,Easy,Positive
+This course was amazing!,5,ML-101,Philosophy of Artificial Intelligence,Dr. John Smith,Medium,Positive
+I was disappointed with the lack of hands-on exercises,1,ECON-404,Economics for Business,Dr. Alice Brown,Medium,Negative
+The course was very well-organized,2,PHIL-505,Introduction to Machine Learning,Dr. Bob Johnson,Hard,Negative
+The instructor was very knowledgeable,4,ML-101,Economics for Business,Dr. John Smith,Easy,Positive
+I was disappointed with the lack of hands-on exercises,4,STAT-303,Introduction to Machine Learning,Dr. Bob Johnson,Easy,Positive
+The instructor was very knowledgeable,5,ML-101,Introduction to Machine Learning,Dr. Alice Brown,Easy,Positive
+The instructor was very responsive,1,PHIL-505,Statistics for Data Science,Dr. Bob Johnson,Medium,Negative
+The instructor was very responsive,2,ECON-404,Introduction to Machine Learning,Dr. Jane Doe,Hard,Negative
+The course was perfect for beginners,5,CS-202,Introduction to Machine Learning,Dr. Alice Brown,Easy,Positive
+I was disappointed with the lack of hands-on exercises,2,PHIL-505,Statistics for Data Science,Dr. Alice Brown,Easy,Negative
+I loved the interactive quizzes,1,ECON-404,Statistics for Data Science,Dr. Alice Brown,Medium,Negative
+I was disappointed with the lack of hands-on exercises,4,ECON-404,Philosophy of Artificial Intelligence,Dr. Alice Brown,Medium,Positive
+The instructor was very knowledgeable,3,STAT-303,Statistics for Data Science,Dr. John Smith,Easy,Negative
+The instructor was very knowledgeable,3,ML-101,Economics for Business,Dr. Jane Doe,Medium,Negative
+I didn't like the way the course was paced,5,CS-202,Introduction to Machine Learning,Dr. John Smith,Medium,Positive
+I loved the interactive quizzes,2,PHIL-505,Data Structures and Algorithms,Dr. Jane Doe,Medium,Negative
+The course was perfect for beginners,4,STAT-303,Data Structures and Algorithms,Dr. Mike Davis,Hard,Positive
+This course was amazing!,4,PHIL-505,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Medium,Positive
+I was disappointed with the lack of hands-on exercises,4,CS-202,Philosophy of Artificial Intelligence,Dr. Alice Brown,Hard,Positive
+The course was perfect for beginners,4,ML-101,Data Structures and Algorithms,Dr. John Smith,Easy,Positive
+The instructor was not very engaging,1,STAT-303,Philosophy of Artificial Intelligence,Dr. Jane Doe,Easy,Negative
+I loved the interactive quizzes,4,CS-202,Statistics for Data Science,Dr. John Smith,Medium,Positive
+I loved the interactive quizzes,3,STAT-303,Introduction to Machine Learning,Dr. Alice Brown,Easy,Negative
+The instructor was very knowledgeable,5,STAT-303,Statistics for Data Science,Dr. Alice Brown,Medium,Positive
+The instructor was very responsive,5,ML-101,Statistics for Data Science,Dr. Bob Johnson,Medium,Positive
+This course was amazing!,3,CS-202,Statistics for Data Science,Dr. Mike Davis,Medium,Negative
+I didn't like the way the course was paced,2,ECON-404,Philosophy of Artificial Intelligence,Dr. Mike Davis,Hard,Negative
+The course was very well-organized,1,PHIL-505,Statistics for Data Science,Dr. Jane Doe,Medium,Negative
+The instructor was not very engaging,2,ECON-404,Statistics for Data Science,Dr. Alice Brown,Easy,Negative
+The course was perfect for beginners,4,ML-101,Economics for Business,Dr. Bob Johnson,Easy,Positive
+The course was too easy,4,STAT-303,Economics for Business,Dr. Alice Brown,Medium,Positive
+The course was too easy,5,STAT-303,Data Structures and Algorithms,Dr. Alice Brown,Easy,Positive
+This course was amazing!,1,STAT-303,Philosophy of Artificial Intelligence,Dr. Jane Doe,Hard,Negative
+I didn't like the way the course was paced,4,ML-101,Introduction to Machine Learning,Dr. Alice Brown,Hard,Positive
+The course was perfect for beginners,2,CS-202,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Hard,Negative
+I didn't like the way the course was paced,4,ML-101,Data Structures and Algorithms,Dr. Mike Davis,Hard,Positive
+The course was perfect for beginners,5,ECON-404,Introduction to Machine Learning,Dr. Jane Doe,Easy,Positive
+The instructor was very responsive,4,ECON-404,Economics for Business,Dr. Alice Brown,Medium,Positive
+The instructor was very knowledgeable,1,ECON-404,Introduction to Machine Learning,Dr. Jane Doe,Medium,Negative
+I was disappointed with the lack of hands-on exercises,4,PHIL-505,Statistics for Data Science,Dr. Jane Doe,Hard,Positive
+The course was very well-organized,4,STAT-303,Philosophy of Artificial Intelligence,Dr. Mike Davis,Hard,Positive
+I was disappointed with the lack of hands-on exercises,4,PHIL-505,Economics for Business,Dr. Bob Johnson,Easy,Positive
+The instructor was very responsive,2,PHIL-505,Introduction to Machine Learning,Dr. Mike Davis,Hard,Negative
+The instructor was very knowledgeable,2,ECON-404,Philosophy of Artificial Intelligence,Dr. Alice Brown,Easy,Negative
+I didn't like the way the course was paced,5,STAT-303,Statistics for Data Science,Dr. Alice Brown,Hard,Positive
+The instructor was very knowledgeable,3,PHIL-505,Economics for Business,Dr. Mike Davis,Medium,Negative
+The course was too easy,2,STAT-303,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Easy,Negative
+The instructor was very knowledgeable,4,PHIL-505,Statistics for Data Science,Dr. Mike Davis,Hard,Positive
+I was disappointed with the lack of hands-on exercises,3,CS-202,Introduction to Machine Learning,Dr. Bob Johnson,Easy,Negative
+This course was amazing!,3,ECON-404,Statistics for Data Science,Dr. Alice Brown,Medium,Negative
+This course was amazing!,2,ML-101,Statistics for Data Science,Dr. Jane Doe,Medium,Negative
+The instructor was very knowledgeable,5,STAT-303,Economics for Business,Dr. Bob Johnson,Medium,Positive
+I was disappointed with the lack of hands-on exercises,2,CS-202,Introduction to Machine Learning,Dr. Alice Brown,Hard,Negative
+I loved the interactive quizzes,2,STAT-303,Statistics for Data Science,Dr. Alice Brown,Medium,Negative
+The instructor was not very engaging,3,ML-101,Statistics for Data Science,Dr. Alice Brown,Easy,Negative
+The course was very well-organized,4,PHIL-505,Economics for Business,Dr. Jane Doe,Hard,Positive
+The course was too easy,3,ML-101,Statistics for Data Science,Dr. John Smith,Easy,Negative
+I didn't like the way the course was paced,5,ML-101,Statistics for Data Science,Dr. John Smith,Medium,Positive
+The instructor was not very engaging,5,PHIL-505,Economics for Business,Dr. John Smith,Hard,Positive
+This course was amazing!,4,ML-101,Philosophy of Artificial Intelligence,Dr. Mike Davis,Hard,Positive
+The instructor was very knowledgeable,5,STAT-303,Statistics for Data Science,Dr. Alice Brown,Hard,Positive
+This course was amazing!,2,ECON-404,Data Structures and Algorithms,Dr. Bob Johnson,Hard,Negative
+I was disappointed with the lack of hands-on exercises,3,PHIL-505,Introduction to Machine Learning,Dr. Jane Doe,Hard,Negative
+The course was perfect for beginners,3,ML-101,Introduction to Machine Learning,Dr. Mike Davis,Easy,Negative
+The course was perfect for beginners,2,PHIL-505,Statistics for Data Science,Dr. Jane Doe,Hard,Negative
+The instructor was very knowledgeable,1,ML-101,Economics for Business,Dr. Alice Brown,Medium,Negative
+The instructor was very responsive,1,STAT-303,Economics for Business,Dr. Alice Brown,Medium,Negative
+I loved the interactive quizzes,2,ML-101,Statistics for Data Science,Dr. Alice Brown,Easy,Negative
+The instructor was not very engaging,3,CS-202,Economics for Business,Dr. Bob Johnson,Medium,Negative
+This course was amazing!,4,ECON-404,Economics for Business,Dr. Jane Doe,Medium,Positive
+I didn't like the way the course was paced,2,CS-202,Statistics for Data Science,Dr. Bob Johnson,Medium,Negative
+The instructor was very knowledgeable,2,ML-101,Economics for Business,Dr. Jane Doe,Medium,Negative
+The course was perfect for beginners,2,PHIL-505,Economics for Business,Dr. John Smith,Easy,Negative
+The course was too easy,4,PHIL-505,Philosophy of Artificial Intelligence,Dr. Alice Brown,Easy,Positive
+The instructor was very responsive,4,STAT-303,Statistics for Data Science,Dr. John Smith,Hard,Positive
+I loved the interactive quizzes,3,ECON-404,Statistics for Data Science,Dr. Alice Brown,Easy,Negative
+The instructor was very knowledgeable,3,PHIL-505,Data Structures and Algorithms,Dr. Jane Doe,Easy,Negative
+The instructor was not very engaging,2,STAT-303,Statistics for Data Science,Dr. John Smith,Medium,Negative
+This course was amazing!,5,PHIL-505,Economics for Business,Dr. Jane Doe,Medium,Positive
+The course was too easy,5,PHIL-505,Introduction to Machine Learning,Dr. Alice Brown,Hard,Positive
+The course was very well-organized,2,ML-101,Data Structures and Algorithms,Dr. Bob Johnson,Easy,Negative
+The course was perfect for beginners,2,PHIL-505,Statistics for Data Science,Dr. John Smith,Hard,Negative
+I didn't like the way the course was paced,5,CS-202,Data Structures and Algorithms,Dr. John Smith,Medium,Positive
+The instructor was not very engaging,2,STAT-303,Introduction to Machine Learning,Dr. John Smith,Hard,Negative
+The course was very well-organized,1,ECON-404,Economics for Business,Dr. Mike Davis,Easy,Negative
+I didn't like the way the course was paced,4,PHIL-505,Economics for Business,Dr. Alice Brown,Medium,Positive
+The instructor was very knowledgeable,3,PHIL-505,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Medium,Negative
+The course was very well-organized,5,PHIL-505,Philosophy of Artificial Intelligence,Dr. John Smith,Hard,Positive
+I loved the interactive quizzes,5,PHIL-505,Economics for Business,Dr. Alice Brown,Hard,Positive
+The instructor was very knowledgeable,3,ML-101,Statistics for Data Science,Dr. Jane Doe,Hard,Negative
+I loved the interactive quizzes,3,ECON-404,Data Structures and Algorithms,Dr. John Smith,Medium,Negative
+The course was very well-organized,3,ECON-404,Economics for Business,Dr. Alice Brown,Hard,Negative
+The instructor was not very engaging,2,ML-101,Economics for Business,Dr. Bob Johnson,Hard,Negative
+The course was perfect for beginners,3,ECON-404,Data Structures and Algorithms,Dr. Bob Johnson,Medium,Negative
+The instructor was very responsive,2,STAT-303,Data Structures and Algorithms,Dr. Alice Brown,Easy,Negative
+I was disappointed with the lack of hands-on exercises,1,ML-101,Data Structures and Algorithms,Dr. John Smith,Hard,Negative
+The instructor was very responsive,5,CS-202,Economics for Business,Dr. John Smith,Hard,Positive
+The instructor was very knowledgeable,3,PHIL-505,Data Structures and Algorithms,Dr. Alice Brown,Medium,Negative
+This course was amazing!,4,STAT-303,Statistics for Data Science,Dr. Jane Doe,Medium,Positive
+The instructor was very knowledgeable,5,CS-202,Introduction to Machine Learning,Dr. Mike Davis,Hard,Positive
+I loved the interactive quizzes,1,CS-202,Introduction to Machine Learning,Dr. John Smith,Easy,Negative
+The instructor was very knowledgeable,2,ECON-404,Economics for Business,Dr. Jane Doe,Hard,Negative
+The course was too easy,5,ML-101,Statistics for Data Science,Dr. Alice Brown,Hard,Positive
+The instructor was very knowledgeable,3,CS-202,Statistics for Data Science,Dr. Alice Brown,Easy,Negative
+The course was too easy,3,ECON-404,Statistics for Data Science,Dr. Jane Doe,Hard,Negative
+The instructor was very knowledgeable,4,ML-101,Statistics for Data Science,Dr. Mike Davis,Hard,Positive
+The instructor was very knowledgeable,1,PHIL-505,Philosophy of Artificial Intelligence,Dr. Jane Doe,Medium,Negative
+I was disappointed with the lack of hands-on exercises,2,STAT-303,Data Structures and Algorithms,Dr. Alice Brown,Hard,Negative
+I didn't like the way the course was paced,2,CS-202,Philosophy of Artificial Intelligence,Dr. Mike Davis,Easy,Negative
+I loved the interactive quizzes,1,STAT-303,Philosophy of Artificial Intelligence,Dr. Mike Davis,Hard,Negative
+The instructor was very responsive,5,PHIL-505,Introduction to Machine Learning,Dr. John Smith,Medium,Positive
+I didn't like the way the course was paced,4,CS-202,Philosophy of Artificial Intelligence,Dr. Mike Davis,Medium,Positive
+The instructor was not very engaging,5,CS-202,Statistics for Data Science,Dr. John Smith,Medium,Positive
+The instructor was very responsive,1,ECON-404,Introduction to Machine Learning,Dr. John Smith,Easy,Negative
+The course was too easy,1,STAT-303,Statistics for Data Science,Dr. Jane Doe,Medium,Negative
+The instructor was not very engaging,1,ML-101,Statistics for Data Science,Dr. Bob Johnson,Easy,Negative
+The course was too easy,5,ML-101,Statistics for Data Science,Dr. Alice Brown,Medium,Positive
+The course was perfect for beginners,1,STAT-303,Economics for Business,Dr. Bob Johnson,Medium,Negative
+The instructor was very knowledgeable,1,ML-101,Statistics for Data Science,Dr. Bob Johnson,Hard,Negative
+The instructor was very knowledgeable,5,PHIL-505,Statistics for Data Science,Dr. Mike Davis,Hard,Positive
+This course was amazing!,5,CS-202,Introduction to Machine Learning,Dr. John Smith,Hard,Positive
+I was disappointed with the lack of hands-on exercises,2,STAT-303,Statistics for Data Science,Dr. John Smith,Hard,Negative
+The course was perfect for beginners,3,PHIL-505,Introduction to Machine Learning,Dr. Mike Davis,Medium,Negative
+The instructor was not very engaging,3,ECON-404,Statistics for Data Science,Dr. Bob Johnson,Hard,Negative
+The course was very well-organized,4,PHIL-505,Economics for Business,Dr. John Smith,Medium,Positive
+I didn't like the way the course was paced,1,STAT-303,Data Structures and Algorithms,Dr. John Smith,Easy,Negative
+I loved the interactive quizzes,4,ECON-404,Data Structures and Algorithms,Dr. John Smith,Medium,Positive
+The instructor was not very engaging,2,PHIL-505,Data Structures and Algorithms,Dr. Bob Johnson,Hard,Negative
+The instructor was very knowledgeable,3,CS-202,Data Structures and Algorithms,Dr. Jane Doe,Easy,Negative
+The instructor was very responsive,4,ECON-404,Economics for Business,Dr. John Smith,Medium,Positive
+The instructor was not very engaging,1,STAT-303,Introduction to Machine Learning,Dr. Jane Doe,Hard,Negative
+The instructor was very responsive,5,ML-101,Introduction to Machine Learning,Dr. Bob Johnson,Easy,Positive
+The instructor was very knowledgeable,5,PHIL-505,Data Structures and Algorithms,Dr. Alice Brown,Easy,Positive
+The instructor was very responsive,4,STAT-303,Introduction to Machine Learning,Dr. John Smith,Easy,Positive
+The instructor was not very engaging,3,STAT-303,Philosophy of Artificial Intelligence,Dr. Jane Doe,Hard,Negative
+This course was amazing!,1,PHIL-505,Data Structures and Algorithms,Dr. John Smith,Easy,Negative
+I didn't like the way the course was paced,5,CS-202,Economics for Business,Dr. John Smith,Hard,Positive
+The instructor was very responsive,5,CS-202,Introduction to Machine Learning,Dr. Mike Davis,Medium,Positive
+The instructor was very responsive,1,ECON-404,Philosophy of Artificial Intelligence,Dr. Alice Brown,Hard,Negative
+I didn't like the way the course was paced,1,PHIL-505,Economics for Business,Dr. John Smith,Hard,Negative
+I was disappointed with the lack of hands-on exercises,3,CS-202,Statistics for Data Science,Dr. Mike Davis,Hard,Negative
+The course was very well-organized,4,STAT-303,Economics for Business,Dr. Mike Davis,Hard,Positive
+I didn't like the way the course was paced,4,STAT-303,Statistics for Data Science,Dr. Jane Doe,Medium,Positive
+The instructor was very responsive,2,ML-101,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Hard,Negative
+I didn't like the way the course was paced,1,ML-101,Economics for Business,Dr. Mike Davis,Easy,Negative
+The instructor was very knowledgeable,4,ML-101,Introduction to Machine Learning,Dr. Jane Doe,Easy,Positive
+The instructor was very responsive,3,STAT-303,Philosophy of Artificial Intelligence,Dr. Mike Davis,Medium,Negative
+This course was amazing!,5,ECON-404,Data Structures and Algorithms,Dr. Alice Brown,Hard,Positive
+The course was too easy,4,PHIL-505,Statistics for Data Science,Dr. John Smith,Easy,Positive
+The instructor was not very engaging,1,PHIL-505,Introduction to Machine Learning,Dr. Mike Davis,Medium,Negative
+The instructor was not very engaging,2,PHIL-505,Statistics for Data Science,Dr. John Smith,Easy,Negative
+I was disappointed with the lack of hands-on exercises,5,ML-101,Data Structures and Algorithms,Dr. Jane Doe,Hard,Positive
+The course was perfect for beginners,5,CS-202,Introduction to Machine Learning,Dr. Mike Davis,Medium,Positive
+I was disappointed with the lack of hands-on exercises,3,ML-101,Philosophy of Artificial Intelligence,Dr. Alice Brown,Medium,Negative
+The instructor was not very engaging,5,PHIL-505,Data Structures and Algorithms,Dr. Jane Doe,Easy,Positive
+I loved the interactive quizzes,2,STAT-303,Data Structures and Algorithms,Dr. John Smith,Medium,Negative
+I loved the interactive quizzes,5,ECON-404,Philosophy of Artificial Intelligence,Dr. John Smith,Hard,Positive
+I was disappointed with the lack of hands-on exercises,4,ML-101,Statistics for Data Science,Dr. Alice Brown,Easy,Positive
+I didn't like the way the course was paced,1,ECON-404,Data Structures and Algorithms,Dr. Alice Brown,Easy,Negative
+I didn't like the way the course was paced,3,STAT-303,Data Structures and Algorithms,Dr. John Smith,Medium,Negative
+The instructor was not very engaging,4,CS-202,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Medium,Positive
+The course was very well-organized,3,PHIL-505,Economics for Business,Dr. Mike Davis,Medium,Negative
+The instructor was very knowledgeable,1,ML-101,Data Structures and Algorithms,Dr. Bob Johnson,Easy,Negative
+The course was perfect for beginners,5,CS-202,Philosophy of Artificial Intelligence,Dr. John Smith,Medium,Positive
+The instructor was very responsive,3,PHIL-505,Introduction to Machine Learning,Dr. John Smith,Hard,Negative
+The instructor was not very engaging,2,ECON-404,Economics for Business,Dr. Alice Brown,Medium,Negative
+This course was amazing!,1,PHIL-505,Economics for Business,Dr. Jane Doe,Medium,Negative
+The course was too easy,3,STAT-303,Economics for Business,Dr. John Smith,Hard,Negative
+The instructor was not very engaging,1,STAT-303,Data Structures and Algorithms,Dr. Mike Davis,Medium,Negative
+The instructor was very responsive,4,ML-101,Philosophy of Artificial Intelligence,Dr. Mike Davis,Easy,Positive
+The course was very well-organized,1,ML-101,Introduction to Machine Learning,Dr. Mike Davis,Easy,Negative
+The instructor was very knowledgeable,5,ECON-404,Statistics for Data Science,Dr. Jane Doe,Easy,Positive
+This course was amazing!,3,ECON-404,Data Structures and Algorithms,Dr. Jane Doe,Medium,Negative
+The course was very well-organized,4,PHIL-505,Introduction to Machine Learning,Dr. John Smith,Easy,Positive
+The instructor was very responsive,3,ECON-404,Introduction to Machine Learning,Dr. John Smith,Medium,Negative
+The course was too easy,3,ML-101,Philosophy of Artificial Intelligence,Dr. John Smith,Hard,Negative
+The instructor was not very engaging,3,ML-101,Data Structures and Algorithms,Dr. Mike Davis,Medium,Negative
+The course was perfect for beginners,1,PHIL-505,Introduction to Machine Learning,Dr. Alice Brown,Hard,Negative
+I didn't like the way the course was paced,1,CS-202,Statistics for Data Science,Dr. Mike Davis,Easy,Negative
+The course was perfect for beginners,3,STAT-303,Philosophy of Artificial Intelligence,Dr. Alice Brown,Medium,Negative
+The instructor was not very engaging,4,ECON-404,Economics for Business,Dr. John Smith,Easy,Positive
+I loved the interactive quizzes,1,ECON-404,Introduction to Machine Learning,Dr. Mike Davis,Medium,Negative
+The instructor was not very engaging,4,ECON-404,Statistics for Data Science,Dr. Bob Johnson,Easy,Positive
+I didn't like the way the course was paced,2,CS-202,Data Structures and Algorithms,Dr. Bob Johnson,Medium,Negative
+The instructor was very responsive,5,ECON-404,Data Structures and Algorithms,Dr. Mike Davis,Hard,Positive
+This course was amazing!,1,ECON-404,Introduction to Machine Learning,Dr. Jane Doe,Hard,Negative
+The course was too easy,4,PHIL-505,Introduction to Machine Learning,Dr. Alice Brown,Easy,Positive
+This course was amazing!,4,ECON-404,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Easy,Positive
+I loved the interactive quizzes,3,PHIL-505,Economics for Business,Dr. Mike Davis,Easy,Negative
+The course was very well-organized,5,ECON-404,Statistics for Data Science,Dr. Jane Doe,Easy,Positive
+I didn't like the way the course was paced,1,PHIL-505,Introduction to Machine Learning,Dr. John Smith,Hard,Negative
+The instructor was not very engaging,4,ECON-404,Introduction to Machine Learning,Dr. Jane Doe,Hard,Positive
+The course was very well-organized,1,CS-202,Statistics for Data Science,Dr. Mike Davis,Medium,Negative
+I loved the interactive quizzes,4,ECON-404,Data Structures and Algorithms,Dr. Jane Doe,Hard,Positive
+The course was perfect for beginners,5,PHIL-505,Data Structures and Algorithms,Dr. Mike Davis,Medium,Positive
+The instructor was very responsive,5,ML-101,Philosophy of Artificial Intelligence,Dr. Mike Davis,Hard,Positive
+I was disappointed with the lack of hands-on exercises,3,ML-101,Statistics for Data Science,Dr. Alice Brown,Medium,Negative
+The instructor was very knowledgeable,1,CS-202,Economics for Business,Dr. John Smith,Medium,Negative
+The instructor was very knowledgeable,3,PHIL-505,Data Structures and Algorithms,Dr. Jane Doe,Medium,Negative
+The instructor was very knowledgeable,5,ML-101,Introduction to Machine Learning,Dr. John Smith,Medium,Positive
+The course was too easy,3,STAT-303,Data Structures and Algorithms,Dr. Bob Johnson,Easy,Negative
+I didn't like the way the course was paced,1,PHIL-505,Data Structures and Algorithms,Dr. Mike Davis,Hard,Negative
+The instructor was very responsive,4,ECON-404,Introduction to Machine Learning,Dr. Bob Johnson,Easy,Positive
+The course was too easy,1,PHIL-505,Statistics for Data Science,Dr. Alice Brown,Hard,Negative
+The instructor was not very engaging,3,ML-101,Data Structures and Algorithms,Dr. John Smith,Easy,Negative
+I was disappointed with the lack of hands-on exercises,3,ECON-404,Introduction to Machine Learning,Dr. Jane Doe,Medium,Negative
+The course was very well-organized,3,ECON-404,Economics for Business,Dr. Bob Johnson,Hard,Negative
+I didn't like the way the course was paced,2,CS-202,Statistics for Data Science,Dr. Alice Brown,Hard,Negative
+The instructor was not very engaging,1,CS-202,Philosophy of Artificial Intelligence,Dr. John Smith,Hard,Negative
+The course was perfect for beginners,3,ECON-404,Philosophy of Artificial Intelligence,Dr. Alice Brown,Easy,Negative
+I was disappointed with the lack of hands-on exercises,4,ML-101,Statistics for Data Science,Dr. Bob Johnson,Medium,Positive
+This course was amazing!,5,ML-101,Introduction to Machine Learning,Dr. Jane Doe,Hard,Positive
+The instructor was not very engaging,1,ML-101,Statistics for Data Science,Dr. Mike Davis,Hard,Negative
+This course was amazing!,4,STAT-303,Introduction to Machine Learning,Dr. Alice Brown,Medium,Positive
+I was disappointed with the lack of hands-on exercises,2,ML-101,Philosophy of Artificial Intelligence,Dr. John Smith,Medium,Negative
+The course was perfect for beginners,2,ECON-404,Statistics for Data Science,Dr. Jane Doe,Hard,Negative
+The instructor was very knowledgeable,3,CS-202,Data Structures and Algorithms,Dr. Bob Johnson,Easy,Negative
+I was disappointed with the lack of hands-on exercises,4,PHIL-505,Economics for Business,Dr. Bob Johnson,Medium,Positive
+The course was too easy,5,PHIL-505,Philosophy of Artificial Intelligence,Dr. Jane Doe,Hard,Positive
+The course was perfect for beginners,4,ML-101,Data Structures and Algorithms,Dr. Jane Doe,Medium,Positive
+I loved the interactive quizzes,4,ECON-404,Introduction to Machine Learning,Dr. Jane Doe,Easy,Positive
+The course was very well-organized,5,CS-202,Introduction to Machine Learning,Dr. Alice Brown,Easy,Positive
+The instructor was very knowledgeable,5,ECON-404,Statistics for Data Science,Dr. John Smith,Medium,Positive
+The course was perfect for beginners,3,STAT-303,Economics for Business,Dr. Jane Doe,Medium,Negative
+The instructor was very responsive,5,PHIL-505,Economics for Business,Dr. John Smith,Medium,Positive
+The instructor was very knowledgeable,5,ML-101,Economics for Business,Dr. Bob Johnson,Easy,Positive
+The course was perfect for beginners,1,CS-202,Philosophy of Artificial Intelligence,Dr. John Smith,Hard,Negative
+The course was too easy,3,ML-101,Data Structures and Algorithms,Dr. John Smith,Hard,Negative
+The course was perfect for beginners,5,ECON-404,Economics for Business,Dr. John Smith,Easy,Positive
+I loved the interactive quizzes,2,STAT-303,Introduction to Machine Learning,Dr. Bob Johnson,Medium,Negative
+The instructor was very responsive,1,ECON-404,Statistics for Data Science,Dr. Bob Johnson,Hard,Negative
+I loved the interactive quizzes,5,STAT-303,Economics for Business,Dr. Bob Johnson,Medium,Positive
+The course was very well-organized,3,CS-202,Introduction to Machine Learning,Dr. Jane Doe,Easy,Negative
+This course was amazing!,2,STAT-303,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Hard,Negative
+I loved the interactive quizzes,5,ECON-404,Introduction to Machine Learning,Dr. Jane Doe,Easy,Positive
+The course was too easy,1,ML-101,Data Structures and Algorithms,Dr. John Smith,Easy,Negative
+The course was too easy,1,STAT-303,Philosophy of Artificial Intelligence,Dr. Alice Brown,Hard,Negative
+The course was perfect for beginners,2,ECON-404,Introduction to Machine Learning,Dr. Bob Johnson,Easy,Negative
+The course was perfect for beginners,5,ECON-404,Introduction to Machine Learning,Dr. Alice Brown,Medium,Positive
+The instructor was not very engaging,3,ECON-404,Introduction to Machine Learning,Dr. Alice Brown,Medium,Negative
+The instructor was very responsive,2,CS-202,Data Structures and Algorithms,Dr. Alice Brown,Easy,Negative
+The instructor was very knowledgeable,4,CS-202,Economics for Business,Dr. Alice Brown,Easy,Positive
+This course was amazing!,3,ECON-404,Economics for Business,Dr. Mike Davis,Easy,Negative
+The instructor was very responsive,2,STAT-303,Introduction to Machine Learning,Dr. Bob Johnson,Hard,Negative
+I didn't like the way the course was paced,2,PHIL-505,Introduction to Machine Learning,Dr. Mike Davis,Medium,Negative
+The course was too easy,5,STAT-303,Data Structures and Algorithms,Dr. John Smith,Hard,Positive
+This course was amazing!,2,STAT-303,Data Structures and Algorithms,Dr. John Smith,Medium,Negative
+The instructor was not very engaging,2,ECON-404,Introduction to Machine Learning,Dr. Alice Brown,Medium,Negative
+The instructor was not very engaging,4,CS-202,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Medium,Positive
+The instructor was very responsive,2,CS-202,Statistics for Data Science,Dr. Bob Johnson,Hard,Negative
+The course was too easy,1,STAT-303,Statistics for Data Science,Dr. Mike Davis,Hard,Negative
+I didn't like the way the course was paced,5,ECON-404,Data Structures and Algorithms,Dr. Bob Johnson,Hard,Positive
+The instructor was very responsive,1,ECON-404,Introduction to Machine Learning,Dr. John Smith,Easy,Negative
+The instructor was very knowledgeable,1,ML-101,Economics for Business,Dr. Alice Brown,Medium,Negative
+This course was amazing!,3,ML-101,Economics for Business,Dr. Bob Johnson,Hard,Negative
+The instructor was very responsive,2,ML-101,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Easy,Negative
+I didn't like the way the course was paced,3,PHIL-505,Philosophy of Artificial Intelligence,Dr. Alice Brown,Hard,Negative
+The course was perfect for beginners,1,STAT-303,Data Structures and Algorithms,Dr. Alice Brown,Medium,Negative
+I loved the interactive quizzes,4,ECON-404,Statistics for Data Science,Dr. Bob Johnson,Easy,Positive
+I was disappointed with the lack of hands-on exercises,5,ML-101,Statistics for Data Science,Dr. Bob Johnson,Medium,Positive
+This course was amazing!,4,STAT-303,Introduction to Machine Learning,Dr. Jane Doe,Hard,Positive
+I loved the interactive quizzes,4,CS-202,Data Structures and Algorithms,Dr. John Smith,Medium,Positive
+I loved the interactive quizzes,4,PHIL-505,Philosophy of Artificial Intelligence,Dr. Alice Brown,Hard,Positive
+The instructor was very responsive,2,ECON-404,Statistics for Data Science,Dr. John Smith,Easy,Negative
+The course was too easy,5,PHIL-505,Philosophy of Artificial Intelligence,Dr. John Smith,Easy,Positive
+The instructor was not very engaging,3,ECON-404,Introduction to Machine Learning,Dr. John Smith,Hard,Negative
+I was disappointed with the lack of hands-on exercises,1,PHIL-505,Statistics for Data Science,Dr. Bob Johnson,Medium,Negative
+The course was perfect for beginners,5,ECON-404,Data Structures and Algorithms,Dr. Mike Davis,Medium,Positive
+The course was perfect for beginners,3,ECON-404,Economics for Business,Dr. Bob Johnson,Medium,Negative
+The instructor was not very engaging,4,ML-101,Statistics for Data Science,Dr. Mike Davis,Hard,Positive
+This course was amazing!,2,PHIL-505,Data Structures and Algorithms,Dr. Alice Brown,Easy,Negative
+This course was amazing!,4,PHIL-505,Introduction to Machine Learning,Dr. Mike Davis,Hard,Positive
+The instructor was very responsive,3,ECON-404,Economics for Business,Dr. Mike Davis,Hard,Negative
+The instructor was very knowledgeable,4,PHIL-505,Introduction to Machine Learning,Dr. Alice Brown,Hard,Positive
+I didn't like the way the course was paced,4,ML-101,Introduction to Machine Learning,Dr. Mike Davis,Medium,Positive
+The course was too easy,1,STAT-303,Philosophy of Artificial Intelligence,Dr. Jane Doe,Medium,Negative
+I was disappointed with the lack of hands-on exercises,3,PHIL-505,Economics for Business,Dr. Jane Doe,Medium,Negative
+The instructor was very responsive,3,STAT-303,Economics for Business,Dr. Alice Brown,Easy,Negative
+The instructor was very responsive,1,ML-101,Philosophy of Artificial Intelligence,Dr. Mike Davis,Hard,Negative
+I loved the interactive quizzes,5,PHIL-505,Introduction to Machine Learning,Dr. John Smith,Hard,Positive
+The instructor was not very engaging,2,ML-101,Philosophy of Artificial Intelligence,Dr. Jane Doe,Hard,Negative
+This course was amazing!,2,STAT-303,Statistics for Data Science,Dr. Jane Doe,Easy,Negative
+This course was amazing!,1,CS-202,Economics for Business,Dr. Mike Davis,Easy,Negative
+This course was amazing!,5,CS-202,Data Structures and Algorithms,Dr. John Smith,Medium,Positive
+The instructor was very knowledgeable,1,PHIL-505,Statistics for Data Science,Dr. Jane Doe,Easy,Negative
+The instructor was very responsive,4,ECON-404,Introduction to Machine Learning,Dr. Alice Brown,Hard,Positive
+The course was very well-organized,4,PHIL-505,Statistics for Data Science,Dr. Alice Brown,Easy,Positive
+This course was amazing!,3,ECON-404,Introduction to Machine Learning,Dr. Bob Johnson,Easy,Negative
+This course was amazing!,3,CS-202,Philosophy of Artificial Intelligence,Dr. Alice Brown,Medium,Negative
+I was disappointed with the lack of hands-on exercises,5,STAT-303,Introduction to Machine Learning,Dr. John Smith,Easy,Positive
+The course was very well-organized,1,CS-202,Philosophy of Artificial Intelligence,Dr. John Smith,Medium,Negative
+The course was perfect for beginners,4,ECON-404,Philosophy of Artificial Intelligence,Dr. Jane Doe,Hard,Positive
+The instructor was very responsive,4,ML-101,Economics for Business,Dr. Jane Doe,Easy,Positive
+The course was perfect for beginners,4,CS-202,Statistics for Data Science,Dr. Bob Johnson,Hard,Positive
+The instructor was very knowledgeable,4,ECON-404,Statistics for Data Science,Dr. Alice Brown,Easy,Positive
+The instructor was very responsive,3,ML-101,Statistics for Data Science,Dr. Bob Johnson,Easy,Negative
+The course was perfect for beginners,5,CS-202,Introduction to Machine Learning,Dr. Mike Davis,Medium,Positive
+The course was too easy,2,PHIL-505,Statistics for Data Science,Dr. John Smith,Easy,Negative
+The course was very well-organized,3,STAT-303,Statistics for Data Science,Dr. Jane Doe,Hard,Negative
+The course was perfect for beginners,4,STAT-303,Economics for Business,Dr. Jane Doe,Medium,Positive
+The instructor was very responsive,1,STAT-303,Economics for Business,Dr. John Smith,Medium,Negative
+The instructor was very knowledgeable,2,CS-202,Economics for Business,Dr. Jane Doe,Hard,Negative
+The instructor was very knowledgeable,4,ML-101,Statistics for Data Science,Dr. John Smith,Hard,Positive
+I loved the interactive quizzes,5,CS-202,Data Structures and Algorithms,Dr. Jane Doe,Easy,Positive
+The course was too easy,4,ECON-404,Data Structures and Algorithms,Dr. Mike Davis,Hard,Positive
+The course was perfect for beginners,2,ECON-404,Philosophy of Artificial Intelligence,Dr. Alice Brown,Easy,Negative
+The course was perfect for beginners,3,ECON-404,Data Structures and Algorithms,Dr. Alice Brown,Medium,Negative
+I was disappointed with the lack of hands-on exercises,2,PHIL-505,Data Structures and Algorithms,Dr. Alice Brown,Medium,Negative
+The course was perfect for beginners,4,PHIL-505,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Easy,Positive
+The course was very well-organized,3,PHIL-505,Statistics for Data Science,Dr. Mike Davis,Hard,Negative
+The course was too easy,2,ECON-404,Economics for Business,Dr. Bob Johnson,Easy,Negative
+This course was amazing!,1,CS-202,Philosophy of Artificial Intelligence,Dr. Jane Doe,Medium,Negative
+I was disappointed with the lack of hands-on exercises,5,STAT-303,Data Structures and Algorithms,Dr. Mike Davis,Medium,Positive
+I didn't like the way the course was paced,3,ML-101,Economics for Business,Dr. John Smith,Medium,Negative
+I was disappointed with the lack of hands-on exercises,3,CS-202,Introduction to Machine Learning,Dr. Bob Johnson,Medium,Negative
+The course was very well-organized,1,CS-202,Economics for Business,Dr. Jane Doe,Easy,Negative
+This course was amazing!,3,ML-101,Data Structures and Algorithms,Dr. John Smith,Medium,Negative
+This course was amazing!,4,PHIL-505,Economics for Business,Dr. Jane Doe,Easy,Positive
+The instructor was very knowledgeable,3,ML-101,Introduction to Machine Learning,Dr. Mike Davis,Easy,Negative
+The course was perfect for beginners,3,CS-202,Statistics for Data Science,Dr. Alice Brown,Hard,Negative
+I didn't like the way the course was paced,5,ECON-404,Economics for Business,Dr. Alice Brown,Medium,Positive
+I didn't like the way the course was paced,5,ECON-404,Data Structures and Algorithms,Dr. John Smith,Medium,Positive
+I was disappointed with the lack of hands-on exercises,5,ML-101,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Easy,Positive
+The instructor was very knowledgeable,5,ECON-404,Philosophy of Artificial Intelligence,Dr. John Smith,Easy,Positive
+The course was perfect for beginners,5,STAT-303,Introduction to Machine Learning,Dr. Mike Davis,Easy,Positive
+I was disappointed with the lack of hands-on exercises,1,STAT-303,Economics for Business,Dr. Bob Johnson,Easy,Negative
+The course was too easy,4,CS-202,Philosophy of Artificial Intelligence,Dr. John Smith,Hard,Positive
+I loved the interactive quizzes,1,CS-202,Data Structures and Algorithms,Dr. Mike Davis,Hard,Negative
+I loved the interactive quizzes,3,STAT-303,Statistics for Data Science,Dr. Bob Johnson,Hard,Negative
+The instructor was not very engaging,3,CS-202,Statistics for Data Science,Dr. John Smith,Hard,Negative
+The instructor was not very engaging,5,CS-202,Economics for Business,Dr. John Smith,Hard,Positive
+The course was perfect for beginners,5,ML-101,Statistics for Data Science,Dr. Bob Johnson,Easy,Positive
+The course was perfect for beginners,2,CS-202,Economics for Business,Dr. John Smith,Medium,Negative
+I didn't like the way the course was paced,2,ML-101,Statistics for Data Science,Dr. Jane Doe,Medium,Negative
+The course was too easy,3,ML-101,Economics for Business,Dr. John Smith,Medium,Negative
+The instructor was very knowledgeable,4,CS-202,Philosophy of Artificial Intelligence,Dr. John Smith,Easy,Positive
+The instructor was very knowledgeable,3,ML-101,Economics for Business,Dr. John Smith,Easy,Negative
+The instructor was not very engaging,3,ML-101,Economics for Business,Dr. Bob Johnson,Easy,Negative
+I loved the interactive quizzes,5,ECON-404,Philosophy of Artificial Intelligence,Dr. Jane Doe,Medium,Positive
+The course was very well-organized,2,ECON-404,Data Structures and Algorithms,Dr. Alice Brown,Medium,Negative
+The course was very well-organized,3,CS-202,Philosophy of Artificial Intelligence,Dr. Jane Doe,Easy,Negative
+The course was very well-organized,5,ML-101,Statistics for Data Science,Dr. Mike Davis,Medium,Positive
+The instructor was not very engaging,3,ECON-404,Introduction to Machine Learning,Dr. Bob Johnson,Medium,Negative
+The instructor was not very engaging,3,ECON-404,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Easy,Negative
+The course was too easy,5,STAT-303,Introduction to Machine Learning,Dr. Jane Doe,Medium,Positive
+The instructor was very responsive,1,CS-202,Data Structures and Algorithms,Dr. John Smith,Hard,Negative
+The instructor was not very engaging,4,STAT-303,Statistics for Data Science,Dr. Jane Doe,Easy,Positive
+The instructor was not very engaging,5,CS-202,Philosophy of Artificial Intelligence,Dr. Alice Brown,Medium,Positive
+This course was amazing!,5,ML-101,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Easy,Positive
+The course was too easy,4,ML-101,Philosophy of Artificial Intelligence,Dr. Alice Brown,Hard,Positive
+I was disappointed with the lack of hands-on exercises,1,ECON-404,Introduction to Machine Learning,Dr. Bob Johnson,Medium,Negative
+The instructor was not very engaging,3,CS-202,Data Structures and Algorithms,Dr. Bob Johnson,Hard,Negative
+The course was too easy,4,STAT-303,Statistics for Data Science,Dr. Mike Davis,Medium,Positive
+I didn't like the way the course was paced,2,STAT-303,Philosophy of Artificial Intelligence,Dr. Jane Doe,Hard,Negative
+The course was perfect for beginners,1,CS-202,Introduction to Machine Learning,Dr. Bob Johnson,Hard,Negative
+The course was too easy,1,ECON-404,Statistics for Data Science,Dr. Bob Johnson,Medium,Negative
+I didn't like the way the course was paced,4,ML-101,Introduction to Machine Learning,Dr. John Smith,Easy,Positive
+I was disappointed with the lack of hands-on exercises,1,ML-101,Introduction to Machine Learning,Dr. Mike Davis,Medium,Negative
+I was disappointed with the lack of hands-on exercises,4,STAT-303,Introduction to Machine Learning,Dr. John Smith,Medium,Positive
+The course was perfect for beginners,1,ECON-404,Philosophy of Artificial Intelligence,Dr. Mike Davis,Hard,Negative
+The instructor was not very engaging,2,PHIL-505,Economics for Business,Dr. Mike Davis,Hard,Negative
+The instructor was very knowledgeable,1,CS-202,Data Structures and Algorithms,Dr. Bob Johnson,Hard,Negative
+I loved the interactive quizzes,5,STAT-303,Economics for Business,Dr. Jane Doe,Hard,Positive
+This course was amazing!,2,CS-202,Introduction to Machine Learning,Dr. John Smith,Hard,Negative
+This course was amazing!,1,STAT-303,Economics for Business,Dr. Alice Brown,Hard,Negative
+The instructor was not very engaging,5,STAT-303,Economics for Business,Dr. Mike Davis,Easy,Positive
+This course was amazing!,3,CS-202,Data Structures and Algorithms,Dr. Alice Brown,Easy,Negative
+I was disappointed with the lack of hands-on exercises,4,PHIL-505,Economics for Business,Dr. Jane Doe,Easy,Positive
+The instructor was very responsive,3,PHIL-505,Statistics for Data Science,Dr. Alice Brown,Hard,Negative
+The instructor was not very engaging,1,PHIL-505,Statistics for Data Science,Dr. Mike Davis,Easy,Negative
+I didn't like the way the course was paced,2,CS-202,Economics for Business,Dr. Mike Davis,Hard,Negative
+The instructor was not very engaging,1,ML-101,Data Structures and Algorithms,Dr. Jane Doe,Easy,Negative
+The course was very well-organized,1,STAT-303,Philosophy of Artificial Intelligence,Dr. Jane Doe,Easy,Negative
+I loved the interactive quizzes,4,PHIL-505,Introduction to Machine Learning,Dr. Alice Brown,Medium,Positive
+I was disappointed with the lack of hands-on exercises,4,STAT-303,Statistics for Data Science,Dr. Mike Davis,Easy,Positive
+I was disappointed with the lack of hands-on exercises,1,PHIL-505,Economics for Business,Dr. Bob Johnson,Medium,Negative
+This course was amazing!,4,ML-101,Economics for Business,Dr. Mike Davis,Hard,Positive
+The instructor was very responsive,3,PHIL-505,Statistics for Data Science,Dr. Mike Davis,Medium,Negative
+The instructor was very knowledgeable,5,STAT-303,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Medium,Positive
+I was disappointed with the lack of hands-on exercises,3,ML-101,Statistics for Data Science,Dr. Jane Doe,Medium,Negative
+I didn't like the way the course was paced,5,PHIL-505,Introduction to Machine Learning,Dr. Jane Doe,Easy,Positive
+The instructor was very responsive,4,PHIL-505,Statistics for Data Science,Dr. John Smith,Hard,Positive
+The course was perfect for beginners,1,STAT-303,Philosophy of Artificial Intelligence,Dr. John Smith,Medium,Negative
+The course was too easy,4,ECON-404,Introduction to Machine Learning,Dr. John Smith,Hard,Positive
+This course was amazing!,2,CS-202,Economics for Business,Dr. John Smith,Hard,Negative
+I didn't like the way the course was paced,3,CS-202,Economics for Business,Dr. Mike Davis,Medium,Negative
+The course was very well-organized,3,CS-202,Introduction to Machine Learning,Dr. Alice Brown,Easy,Negative
+I didn't like the way the course was paced,4,CS-202,Statistics for Data Science,Dr. Mike Davis,Medium,Positive
+The instructor was very knowledgeable,1,CS-202,Philosophy of Artificial Intelligence,Dr. Jane Doe,Easy,Negative
+I didn't like the way the course was paced,4,STAT-303,Data Structures and Algorithms,Dr. John Smith,Hard,Positive
+The course was very well-organized,5,STAT-303,Data Structures and Algorithms,Dr. Bob Johnson,Hard,Positive
+I didn't like the way the course was paced,5,PHIL-505,Statistics for Data Science,Dr. John Smith,Hard,Positive
+This course was amazing!,5,CS-202,Data Structures and Algorithms,Dr. John Smith,Easy,Positive
+I didn't like the way the course was paced,4,ML-101,Economics for Business,Dr. Bob Johnson,Medium,Positive
+The instructor was not very engaging,3,ML-101,Statistics for Data Science,Dr. John Smith,Easy,Negative
+The instructor was very responsive,1,CS-202,Statistics for Data Science,Dr. Bob Johnson,Hard,Negative
+I loved the interactive quizzes,5,STAT-303,Statistics for Data Science,Dr. Alice Brown,Hard,Positive
+I loved the interactive quizzes,1,ECON-404,Data Structures and Algorithms,Dr. Alice Brown,Easy,Negative
+The instructor was not very engaging,3,CS-202,Introduction to Machine Learning,Dr. John Smith,Medium,Negative
+This course was amazing!,1,ML-101,Philosophy of Artificial Intelligence,Dr. Alice Brown,Medium,Negative
+The course was too easy,1,ECON-404,Data Structures and Algorithms,Dr. John Smith,Hard,Negative
+The instructor was very responsive,4,CS-202,Economics for Business,Dr. John Smith,Hard,Positive
+The instructor was very responsive,3,STAT-303,Data Structures and Algorithms,Dr. Alice Brown,Hard,Negative
+The course was perfect for beginners,3,PHIL-505,Statistics for Data Science,Dr. John Smith,Hard,Negative
+I was disappointed with the lack of hands-on exercises,3,CS-202,Introduction to Machine Learning,Dr. Jane Doe,Easy,Negative
+The course was perfect for beginners,1,PHIL-505,Introduction to Machine Learning,Dr. John Smith,Medium,Negative
+The course was too easy,5,ML-101,Statistics for Data Science,Dr. Bob Johnson,Easy,Positive
+I was disappointed with the lack of hands-on exercises,5,CS-202,Introduction to Machine Learning,Dr. Jane Doe,Hard,Positive
+The instructor was not very engaging,1,ECON-404,Philosophy of Artificial Intelligence,Dr. John Smith,Hard,Negative
+The instructor was very responsive,1,STAT-303,Introduction to Machine Learning,Dr. Bob Johnson,Hard,Negative
+I loved the interactive quizzes,4,ML-101,Statistics for Data Science,Dr. John Smith,Hard,Positive
+This course was amazing!,1,PHIL-505,Introduction to Machine Learning,Dr. Mike Davis,Medium,Negative
+The course was very well-organized,5,CS-202,Economics for Business,Dr. Bob Johnson,Easy,Positive
+The course was very well-organized,2,ML-101,Statistics for Data Science,Dr. Alice Brown,Hard,Negative
+The course was perfect for beginners,1,PHIL-505,Introduction to Machine Learning,Dr. Mike Davis,Medium,Negative
+The instructor was not very engaging,2,ECON-404,Introduction to Machine Learning,Dr. Bob Johnson,Easy,Negative
+The course was very well-organized,3,CS-202,Philosophy of Artificial Intelligence,Dr. Mike Davis,Hard,Negative
+The instructor was very knowledgeable,5,STAT-303,Economics for Business,Dr. Jane Doe,Hard,Positive
+The course was very well-organized,3,ECON-404,Economics for Business,Dr. Bob Johnson,Easy,Negative
+The course was perfect for beginners,5,PHIL-505,Philosophy of Artificial Intelligence,Dr. Jane Doe,Medium,Positive
+The course was perfect for beginners,5,ML-101,Economics for Business,Dr. Alice Brown,Easy,Positive
+The course was very well-organized,3,ECON-404,Statistics for Data Science,Dr. Bob Johnson,Medium,Negative
+The instructor was very responsive,1,PHIL-505,Economics for Business,Dr. John Smith,Medium,Negative
+The course was too easy,2,ECON-404,Statistics for Data Science,Dr. Bob Johnson,Hard,Negative
+I loved the interactive quizzes,4,CS-202,Data Structures and Algorithms,Dr. Mike Davis,Hard,Positive
+I was disappointed with the lack of hands-on exercises,3,ML-101,Economics for Business,Dr. Mike Davis,Easy,Negative
+The course was too easy,3,STAT-303,Statistics for Data Science,Dr. John Smith,Medium,Negative
+The instructor was very knowledgeable,5,PHIL-505,Data Structures and Algorithms,Dr. John Smith,Medium,Positive
+The course was very well-organized,3,ML-101,Philosophy of Artificial Intelligence,Dr. Jane Doe,Easy,Negative
+The instructor was not very engaging,1,CS-202,Statistics for Data Science,Dr. Mike Davis,Easy,Negative
+This course was amazing!,1,PHIL-505,Economics for Business,Dr. Jane Doe,Easy,Negative
+The course was perfect for beginners,1,ML-101,Economics for Business,Dr. Alice Brown,Easy,Negative
+The course was too easy,4,ECON-404,Introduction to Machine Learning,Dr. John Smith,Medium,Positive
+The course was perfect for beginners,5,ECON-404,Data Structures and Algorithms,Dr. Bob Johnson,Medium,Positive
+The instructor was very responsive,2,CS-202,Data Structures and Algorithms,Dr. Bob Johnson,Hard,Negative
+The course was perfect for beginners,3,ECON-404,Data Structures and Algorithms,Dr. Alice Brown,Medium,Negative
+The course was very well-organized,4,CS-202,Data Structures and Algorithms,Dr. Bob Johnson,Medium,Positive
+The course was too easy,5,ECON-404,Statistics for Data Science,Dr. Alice Brown,Medium,Positive
+The course was too easy,1,STAT-303,Philosophy of Artificial Intelligence,Dr. Alice Brown,Easy,Negative
+The course was perfect for beginners,1,ML-101,Introduction to Machine Learning,Dr. John Smith,Hard,Negative
+The instructor was very responsive,1,ML-101,Economics for Business,Dr. Bob Johnson,Hard,Negative
+The course was too easy,1,STAT-303,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Hard,Negative
+The course was very well-organized,4,CS-202,Introduction to Machine Learning,Dr. Alice Brown,Hard,Positive
+I loved the interactive quizzes,2,CS-202,Philosophy of Artificial Intelligence,Dr. Alice Brown,Hard,Negative
+I loved the interactive quizzes,5,PHIL-505,Statistics for Data Science,Dr. Alice Brown,Easy,Positive
+The instructor was very knowledgeable,2,STAT-303,Economics for Business,Dr. Jane Doe,Easy,Negative
+I loved the interactive quizzes,3,ECON-404,Philosophy of Artificial Intelligence,Dr. Alice Brown,Hard,Negative
+I was disappointed with the lack of hands-on exercises,2,PHIL-505,Economics for Business,Dr. Alice Brown,Medium,Negative
+The instructor was very knowledgeable,1,PHIL-505,Data Structures and Algorithms,Dr. Mike Davis,Hard,Negative
+The instructor was not very engaging,1,PHIL-505,Data Structures and Algorithms,Dr. Bob Johnson,Medium,Negative
+The course was too easy,2,CS-202,Data Structures and Algorithms,Dr. Jane Doe,Medium,Negative
+The course was perfect for beginners,3,STAT-303,Economics for Business,Dr. Alice Brown,Hard,Negative
+The course was very well-organized,5,PHIL-505,Philosophy of Artificial Intelligence,Dr. Mike Davis,Hard,Positive
+I loved the interactive quizzes,4,ML-101,Statistics for Data Science,Dr. Bob Johnson,Medium,Positive
+I loved the interactive quizzes,1,PHIL-505,Economics for Business,Dr. Bob Johnson,Medium,Negative
+The course was very well-organized,1,ML-101,Philosophy of Artificial Intelligence,Dr. Mike Davis,Easy,Negative
+I didn't like the way the course was paced,1,CS-202,Statistics for Data Science,Dr. Bob Johnson,Hard,Negative
+The course was too easy,3,CS-202,Introduction to Machine Learning,Dr. Bob Johnson,Hard,Negative
+The course was too easy,3,CS-202,Economics for Business,Dr. Bob Johnson,Easy,Negative
+The course was too easy,5,STAT-303,Statistics for Data Science,Dr. Jane Doe,Medium,Positive
+I was disappointed with the lack of hands-on exercises,1,CS-202,Philosophy of Artificial Intelligence,Dr. Jane Doe,Medium,Negative
+The instructor was not very engaging,1,ECON-404,Philosophy of Artificial Intelligence,Dr. Jane Doe,Easy,Negative
+The instructor was very knowledgeable,1,STAT-303,Data Structures and Algorithms,Dr. Alice Brown,Hard,Negative
+The course was perfect for beginners,2,PHIL-505,Economics for Business,Dr. Alice Brown,Medium,Negative
+The course was too easy,2,ML-101,Statistics for Data Science,Dr. Bob Johnson,Hard,Negative
+The instructor was very knowledgeable,2,ECON-404,Introduction to Machine Learning,Dr. Mike Davis,Easy,Negative
+The instructor was very knowledgeable,2,PHIL-505,Data Structures and Algorithms,Dr. Alice Brown,Medium,Negative
+I was disappointed with the lack of hands-on exercises,1,ECON-404,Economics for Business,Dr. Bob Johnson,Easy,Negative
+The course was perfect for beginners,2,ML-101,Economics for Business,Dr. Mike Davis,Medium,Negative
+The course was perfect for beginners,3,STAT-303,Data Structures and Algorithms,Dr. Mike Davis,Hard,Negative
+The instructor was very responsive,5,ECON-404,Statistics for Data Science,Dr. Jane Doe,Medium,Positive
+I loved the interactive quizzes,5,CS-202,Economics for Business,Dr. Alice Brown,Hard,Positive
+The instructor was not very engaging,5,ECON-404,Economics for Business,Dr. John Smith,Medium,Positive
+The course was very well-organized,3,PHIL-505,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Medium,Negative
+I didn't like the way the course was paced,5,CS-202,Philosophy of Artificial Intelligence,Dr. Jane Doe,Hard,Positive
+I didn't like the way the course was paced,5,STAT-303,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Hard,Positive
+The instructor was very knowledgeable,4,PHIL-505,Economics for Business,Dr. Mike Davis,Easy,Positive
+I loved the interactive quizzes,5,PHIL-505,Economics for Business,Dr. Jane Doe,Medium,Positive
+This course was amazing!,1,STAT-303,Introduction to Machine Learning,Dr. Jane Doe,Hard,Negative
+The course was too easy,3,ECON-404,Statistics for Data Science,Dr. Jane Doe,Hard,Negative
+The course was very well-organized,2,STAT-303,Introduction to Machine Learning,Dr. Jane Doe,Hard,Negative
+I loved the interactive quizzes,2,ECON-404,Introduction to Machine Learning,Dr. Bob Johnson,Medium,Negative
+I didn't like the way the course was paced,2,PHIL-505,Philosophy of Artificial Intelligence,Dr. Mike Davis,Hard,Negative
+I didn't like the way the course was paced,5,ML-101,Economics for Business,Dr. Bob Johnson,Easy,Positive
+The instructor was very knowledgeable,5,CS-202,Economics for Business,Dr. Alice Brown,Medium,Positive
+The course was very well-organized,1,STAT-303,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Easy,Negative
+I was disappointed with the lack of hands-on exercises,1,ML-101,Data Structures and Algorithms,Dr. Bob Johnson,Easy,Negative
+I was disappointed with the lack of hands-on exercises,1,ECON-404,Economics for Business,Dr. Jane Doe,Medium,Negative
+I was disappointed with the lack of hands-on exercises,2,ML-101,Data Structures and Algorithms,Dr. Bob Johnson,Medium,Negative
+This course was amazing!,5,CS-202,Introduction to Machine Learning,Dr. Mike Davis,Medium,Positive
+The instructor was very knowledgeable,2,CS-202,Data Structures and Algorithms,Dr. John Smith,Easy,Negative
+The instructor was very knowledgeable,1,ML-101,Data Structures and Algorithms,Dr. Alice Brown,Easy,Negative
+The course was too easy,2,PHIL-505,Economics for Business,Dr. Jane Doe,Easy,Negative
+The course was too easy,1,CS-202,Economics for Business,Dr. John Smith,Hard,Negative
+The course was too easy,1,ECON-404,Economics for Business,Dr. John Smith,Hard,Negative
+The course was too easy,2,ECON-404,Introduction to Machine Learning,Dr. Mike Davis,Easy,Negative
+The course was too easy,5,STAT-303,Philosophy of Artificial Intelligence,Dr. Jane Doe,Hard,Positive
+This course was amazing!,1,CS-202,Philosophy of Artificial Intelligence,Dr. John Smith,Hard,Negative
+The course was perfect for beginners,4,ML-101,Data Structures and Algorithms,Dr. Jane Doe,Hard,Positive
+This course was amazing!,2,PHIL-505,Philosophy of Artificial Intelligence,Dr. Mike Davis,Hard,Negative
+The instructor was very knowledgeable,4,ML-101,Data Structures and Algorithms,Dr. Alice Brown,Medium,Positive
+The instructor was very knowledgeable,3,PHIL-505,Data Structures and Algorithms,Dr. John Smith,Easy,Negative
+The course was perfect for beginners,3,PHIL-505,Statistics for Data Science,Dr. Mike Davis,Medium,Negative
+This course was amazing!,4,ECON-404,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Easy,Positive
+The instructor was very responsive,2,ML-101,Statistics for Data Science,Dr. Bob Johnson,Easy,Negative
+The instructor was very knowledgeable,2,STAT-303,Economics for Business,Dr. Jane Doe,Easy,Negative
+I was disappointed with the lack of hands-on exercises,3,PHIL-505,Philosophy of Artificial Intelligence,Dr. Mike Davis,Medium,Negative
+The course was very well-organized,1,CS-202,Statistics for Data Science,Dr. John Smith,Easy,Negative
+The instructor was very responsive,3,CS-202,Introduction to Machine Learning,Dr. Bob Johnson,Easy,Negative
+The instructor was very knowledgeable,3,ML-101,Economics for Business,Dr. Jane Doe,Hard,Negative
+The instructor was very knowledgeable,2,ML-101,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Medium,Negative
+The course was too easy,5,PHIL-505,Data Structures and Algorithms,Dr. Bob Johnson,Easy,Positive
+The instructor was very knowledgeable,5,ML-101,Statistics for Data Science,Dr. John Smith,Easy,Positive
+I was disappointed with the lack of hands-on exercises,2,CS-202,Data Structures and Algorithms,Dr. Alice Brown,Medium,Negative
+I loved the interactive quizzes,1,PHIL-505,Philosophy of Artificial Intelligence,Dr. John Smith,Easy,Negative
+The instructor was not very engaging,2,STAT-303,Statistics for Data Science,Dr. Jane Doe,Hard,Negative
+I was disappointed with the lack of hands-on exercises,4,PHIL-505,Economics for Business,Dr. Jane Doe,Medium,Positive
+The course was very well-organized,1,ECON-404,Economics for Business,Dr. John Smith,Medium,Negative
+The course was too easy,4,STAT-303,Philosophy of Artificial Intelligence,Dr. John Smith,Hard,Positive
+I was disappointed with the lack of hands-on exercises,3,CS-202,Statistics for Data Science,Dr. Jane Doe,Hard,Negative
+The instructor was very knowledgeable,2,CS-202,Philosophy of Artificial Intelligence,Dr. John Smith,Medium,Negative
+I didn't like the way the course was paced,2,ML-101,Philosophy of Artificial Intelligence,Dr. John Smith,Easy,Negative
+This course was amazing!,4,ML-101,Introduction to Machine Learning,Dr. Jane Doe,Hard,Positive
+The instructor was very responsive,3,STAT-303,Philosophy of Artificial Intelligence,Dr. Jane Doe,Medium,Negative
+I was disappointed with the lack of hands-on exercises,3,STAT-303,Statistics for Data Science,Dr. John Smith,Hard,Negative
+I was disappointed with the lack of hands-on exercises,4,ML-101,Philosophy of Artificial Intelligence,Dr. John Smith,Easy,Positive
+I loved the interactive quizzes,1,PHIL-505,Economics for Business,Dr. Alice Brown,Hard,Negative
+I was disappointed with the lack of hands-on exercises,5,STAT-303,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Medium,Positive
+I loved the interactive quizzes,1,STAT-303,Philosophy of Artificial Intelligence,Dr. Jane Doe,Hard,Negative
+I didn't like the way the course was paced,3,ECON-404,Statistics for Data Science,Dr. Alice Brown,Hard,Negative
+The instructor was very knowledgeable,4,ML-101,Philosophy of Artificial Intelligence,Dr. Mike Davis,Hard,Positive
+I was disappointed with the lack of hands-on exercises,1,ML-101,Introduction to Machine Learning,Dr. Alice Brown,Medium,Negative
+The instructor was very knowledgeable,5,ECON-404,Introduction to Machine Learning,Dr. Mike Davis,Hard,Positive
+The instructor was not very engaging,5,PHIL-505,Economics for Business,Dr. John Smith,Easy,Positive
+The instructor was not very engaging,4,ML-101,Economics for Business,Dr. Alice Brown,Medium,Positive
+This course was amazing!,4,ML-101,Introduction to Machine Learning,Dr. Mike Davis,Hard,Positive
+I loved the interactive quizzes,2,ECON-404,Economics for Business,Dr. Alice Brown,Hard,Negative
+This course was amazing!,4,ECON-404,Philosophy of Artificial Intelligence,Dr. Alice Brown,Easy,Positive
+I didn't like the way the course was paced,4,ML-101,Introduction to Machine Learning,Dr. John Smith,Hard,Positive
+The course was perfect for beginners,4,PHIL-505,Statistics for Data Science,Dr. John Smith,Easy,Positive
+The instructor was not very engaging,1,ECON-404,Statistics for Data Science,Dr. Bob Johnson,Medium,Negative
+The instructor was very knowledgeable,2,PHIL-505,Economics for Business,Dr. Alice Brown,Hard,Negative
+The course was too easy,4,CS-202,Data Structures and Algorithms,Dr. Jane Doe,Hard,Positive
+The course was very well-organized,5,ML-101,Philosophy of Artificial Intelligence,Dr. Mike Davis,Medium,Positive
+This course was amazing!,1,PHIL-505,Data Structures and Algorithms,Dr. Mike Davis,Easy,Negative
+The course was perfect for beginners,2,ML-101,Data Structures and Algorithms,Dr. Jane Doe,Easy,Negative
+I was disappointed with the lack of hands-on exercises,5,PHIL-505,Statistics for Data Science,Dr. Jane Doe,Hard,Positive
+I loved the interactive quizzes,1,ECON-404,Economics for Business,Dr. Alice Brown,Easy,Negative
+This course was amazing!,4,ECON-404,Statistics for Data Science,Dr. Jane Doe,Medium,Positive
+The instructor was not very engaging,2,STAT-303,Introduction to Machine Learning,Dr. Bob Johnson,Easy,Negative
+I loved the interactive quizzes,2,CS-202,Philosophy of Artificial Intelligence,Dr. Jane Doe,Easy,Negative
+I didn't like the way the course was paced,4,STAT-303,Philosophy of Artificial Intelligence,Dr. John Smith,Easy,Positive
+I loved the interactive quizzes,1,ECON-404,Economics for Business,Dr. John Smith,Medium,Negative
+The course was very well-organized,4,STAT-303,Economics for Business,Dr. Bob Johnson,Medium,Positive
+The course was perfect for beginners,1,ECON-404,Statistics for Data Science,Dr. Alice Brown,Hard,Negative
+I was disappointed with the lack of hands-on exercises,5,ML-101,Data Structures and Algorithms,Dr. Mike Davis,Hard,Positive
+The instructor was very knowledgeable,4,ECON-404,Statistics for Data Science,Dr. Bob Johnson,Easy,Positive
+The course was too easy,3,ML-101,Data Structures and Algorithms,Dr. Mike Davis,Medium,Negative
+The instructor was very responsive,1,ML-101,Data Structures and Algorithms,Dr. Alice Brown,Medium,Negative
+The course was very well-organized,3,STAT-303,Economics for Business,Dr. Jane Doe,Easy,Negative
+The instructor was very knowledgeable,2,CS-202,Economics for Business,Dr. Jane Doe,Hard,Negative
+The course was very well-organized,3,ECON-404,Data Structures and Algorithms,Dr. Alice Brown,Medium,Negative
+This course was amazing!,2,PHIL-505,Philosophy of Artificial Intelligence,Dr. Alice Brown,Hard,Negative
+The course was very well-organized,5,CS-202,Introduction to Machine Learning,Dr. Bob Johnson,Easy,Positive
+The course was perfect for beginners,1,CS-202,Introduction to Machine Learning,Dr. Jane Doe,Easy,Negative
+I loved the interactive quizzes,3,PHIL-505,Statistics for Data Science,Dr. Alice Brown,Hard,Negative
+I was disappointed with the lack of hands-on exercises,5,PHIL-505,Economics for Business,Dr. Jane Doe,Medium,Positive
+The course was too easy,3,STAT-303,Statistics for Data Science,Dr. Bob Johnson,Hard,Negative
+The instructor was very knowledgeable,5,ECON-404,Philosophy of Artificial Intelligence,Dr. Jane Doe,Easy,Positive
+The instructor was very responsive,1,STAT-303,Statistics for Data Science,Dr. Mike Davis,Hard,Negative
+The instructor was not very engaging,3,ECON-404,Philosophy of Artificial Intelligence,Dr. Mike Davis,Easy,Negative
+This course was amazing!,2,ECON-404,Introduction to Machine Learning,Dr. Alice Brown,Easy,Negative
+The course was too easy,3,ML-101,Statistics for Data Science,Dr. Jane Doe,Hard,Negative
+The course was perfect for beginners,4,PHIL-505,Economics for Business,Dr. Jane Doe,Medium,Positive
+I didn't like the way the course was paced,1,PHIL-505,Data Structures and Algorithms,Dr. Alice Brown,Medium,Negative
+The instructor was not very engaging,4,ML-101,Philosophy of Artificial Intelligence,Dr. Mike Davis,Hard,Positive
+This course was amazing!,5,CS-202,Statistics for Data Science,Dr. Mike Davis,Medium,Positive
+I didn't like the way the course was paced,1,PHIL-505,Philosophy of Artificial Intelligence,Dr. John Smith,Medium,Negative
+The instructor was not very engaging,4,ML-101,Data Structures and Algorithms,Dr. Bob Johnson,Hard,Positive
+The course was too easy,1,CS-202,Philosophy of Artificial Intelligence,Dr. Jane Doe,Easy,Negative
+The instructor was very responsive,3,PHIL-505,Philosophy of Artificial Intelligence,Dr. John Smith,Easy,Negative
+The instructor was very responsive,5,CS-202,Philosophy of Artificial Intelligence,Dr. Jane Doe,Medium,Positive
+I didn't like the way the course was paced,5,ECON-404,Data Structures and Algorithms,Dr. Alice Brown,Medium,Positive
+I was disappointed with the lack of hands-on exercises,2,ML-101,Philosophy of Artificial Intelligence,Dr. Alice Brown,Easy,Negative
+The instructor was very responsive,2,PHIL-505,Data Structures and Algorithms,Dr. Mike Davis,Hard,Negative
+The instructor was very responsive,5,ML-101,Economics for Business,Dr. Bob Johnson,Easy,Positive
+The instructor was not very engaging,5,ECON-404,Economics for Business,Dr. John Smith,Medium,Positive
+The instructor was very responsive,3,ML-101,Philosophy of Artificial Intelligence,Dr. John Smith,Hard,Negative
+The course was very well-organized,4,PHIL-505,Economics for Business,Dr. Jane Doe,Medium,Positive
+I didn't like the way the course was paced,3,PHIL-505,Data Structures and Algorithms,Dr. Jane Doe,Hard,Negative
+The course was too easy,1,ML-101,Economics for Business,Dr. Alice Brown,Hard,Negative
+The course was perfect for beginners,5,CS-202,Data Structures and Algorithms,Dr. Bob Johnson,Hard,Positive
+I was disappointed with the lack of hands-on exercises,5,STAT-303,Data Structures and Algorithms,Dr. Alice Brown,Easy,Positive
+The course was perfect for beginners,4,ML-101,Introduction to Machine Learning,Dr. Bob Johnson,Easy,Positive
+I loved the interactive quizzes,2,STAT-303,Data Structures and Algorithms,Dr. Mike Davis,Medium,Negative
+I was disappointed with the lack of hands-on exercises,2,ML-101,Introduction to Machine Learning,Dr. Jane Doe,Medium,Negative
+The instructor was very responsive,4,CS-202,Data Structures and Algorithms,Dr. Jane Doe,Medium,Positive
+The instructor was very responsive,1,STAT-303,Statistics for Data Science,Dr. Bob Johnson,Medium,Negative
+I was disappointed with the lack of hands-on exercises,2,ECON-404,Data Structures and Algorithms,Dr. John Smith,Medium,Negative
+The instructor was very knowledgeable,5,ML-101,Data Structures and Algorithms,Dr. Bob Johnson,Medium,Positive
+I was disappointed with the lack of hands-on exercises,5,STAT-303,Philosophy of Artificial Intelligence,Dr. Mike Davis,Medium,Positive
+The instructor was very responsive,2,STAT-303,Statistics for Data Science,Dr. John Smith,Hard,Negative
+The course was perfect for beginners,5,ECON-404,Introduction to Machine Learning,Dr. Jane Doe,Hard,Positive
+The course was very well-organized,1,ML-101,Introduction to Machine Learning,Dr. Bob Johnson,Medium,Negative
+The course was very well-organized,2,STAT-303,Data Structures and Algorithms,Dr. Mike Davis,Hard,Negative
+I didn't like the way the course was paced,3,PHIL-505,Data Structures and Algorithms,Dr. Bob Johnson,Hard,Negative
+I loved the interactive quizzes,5,PHIL-505,Data Structures and Algorithms,Dr. Bob Johnson,Hard,Positive
+The instructor was not very engaging,5,ECON-404,Philosophy of Artificial Intelligence,Dr. Jane Doe,Easy,Positive
+The instructor was very responsive,1,PHIL-505,Introduction to Machine Learning,Dr. Bob Johnson,Medium,Negative
+The instructor was very responsive,5,STAT-303,Economics for Business,Dr. Mike Davis,Hard,Positive
+I loved the interactive quizzes,5,ML-101,Data Structures and Algorithms,Dr. John Smith,Medium,Positive
+The instructor was very responsive,1,ECON-404,Statistics for Data Science,Dr. Bob Johnson,Medium,Negative
+The instructor was very responsive,4,PHIL-505,Statistics for Data Science,Dr. John Smith,Hard,Positive
+The instructor was very knowledgeable,2,CS-202,Economics for Business,Dr. Jane Doe,Easy,Negative
+The course was very well-organized,5,ML-101,Introduction to Machine Learning,Dr. Jane Doe,Easy,Positive
+The course was too easy,3,CS-202,Introduction to Machine Learning,Dr. Alice Brown,Easy,Negative
+The instructor was very responsive,1,CS-202,Data Structures and Algorithms,Dr. Jane Doe,Easy,Negative
+The instructor was very responsive,3,PHIL-505,Economics for Business,Dr. Jane Doe,Easy,Negative
+I was disappointed with the lack of hands-on exercises,2,PHIL-505,Economics for Business,Dr. Alice Brown,Medium,Negative
+I loved the interactive quizzes,2,ECON-404,Introduction to Machine Learning,Dr. John Smith,Hard,Negative
+The instructor was very responsive,3,ML-101,Data Structures and Algorithms,Dr. Jane Doe,Easy,Negative
+I didn't like the way the course was paced,3,STAT-303,Economics for Business,Dr. Jane Doe,Medium,Negative
+I was disappointed with the lack of hands-on exercises,4,ML-101,Statistics for Data Science,Dr. Jane Doe,Medium,Positive
+The course was very well-organized,5,ML-101,Data Structures and Algorithms,Dr. Mike Davis,Medium,Positive
+This course was amazing!,4,ECON-404,Data Structures and Algorithms,Dr. Mike Davis,Easy,Positive
+The instructor was not very engaging,1,ML-101,Introduction to Machine Learning,Dr. John Smith,Easy,Negative
+This course was amazing!,2,PHIL-505,Introduction to Machine Learning,Dr. Mike Davis,Easy,Negative
+The course was very well-organized,5,CS-202,Economics for Business,Dr. Bob Johnson,Hard,Positive
+I was disappointed with the lack of hands-on exercises,5,CS-202,Introduction to Machine Learning,Dr. Alice Brown,Hard,Positive
+The course was perfect for beginners,5,STAT-303,Statistics for Data Science,Dr. John Smith,Easy,Positive
+The course was very well-organized,4,STAT-303,Economics for Business,Dr. Alice Brown,Easy,Positive
+The instructor was very responsive,1,PHIL-505,Introduction to Machine Learning,Dr. Jane Doe,Hard,Negative
+I didn't like the way the course was paced,1,ECON-404,Economics for Business,Dr. Jane Doe,Easy,Negative
+The instructor was very knowledgeable,1,STAT-303,Economics for Business,Dr. Alice Brown,Easy,Negative
+I loved the interactive quizzes,3,CS-202,Introduction to Machine Learning,Dr. Bob Johnson,Medium,Negative
+I loved the interactive quizzes,2,PHIL-505,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Hard,Negative
+This course was amazing!,1,ML-101,Data Structures and Algorithms,Dr. Bob Johnson,Easy,Negative
+The course was too easy,1,CS-202,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Hard,Negative
+I didn't like the way the course was paced,1,ECON-404,Economics for Business,Dr. Alice Brown,Hard,Negative
+The instructor was not very engaging,3,ECON-404,Philosophy of Artificial Intelligence,Dr. Mike Davis,Hard,Negative
+The instructor was very responsive,4,ML-101,Philosophy of Artificial Intelligence,Dr. Mike Davis,Easy,Positive
+I didn't like the way the course was paced,5,STAT-303,Economics for Business,Dr. Mike Davis,Hard,Positive
+I loved the interactive quizzes,4,STAT-303,Economics for Business,Dr. Alice Brown,Medium,Positive
+The course was too easy,3,PHIL-505,Economics for Business,Dr. Alice Brown,Easy,Negative
+This course was amazing!,3,ECON-404,Introduction to Machine Learning,Dr. Mike Davis,Easy,Negative
+The instructor was not very engaging,4,PHIL-505,Data Structures and Algorithms,Dr. Bob Johnson,Hard,Positive
+The course was very well-organized,5,STAT-303,Statistics for Data Science,Dr. John Smith,Easy,Positive
+I was disappointed with the lack of hands-on exercises,1,STAT-303,Economics for Business,Dr. Mike Davis,Medium,Negative
+This course was amazing!,2,STAT-303,Economics for Business,Dr. Bob Johnson,Medium,Negative
+The course was too easy,2,ECON-404,Economics for Business,Dr. Jane Doe,Medium,Negative
+This course was amazing!,4,CS-202,Philosophy of Artificial Intelligence,Dr. John Smith,Medium,Positive
+I loved the interactive quizzes,1,STAT-303,Introduction to Machine Learning,Dr. Mike Davis,Hard,Negative
+I was disappointed with the lack of hands-on exercises,3,STAT-303,Statistics for Data Science,Dr. Jane Doe,Easy,Negative
+I didn't like the way the course was paced,5,CS-202,Economics for Business,Dr. Bob Johnson,Easy,Positive
+This course was amazing!,3,PHIL-505,Statistics for Data Science,Dr. Bob Johnson,Medium,Negative
+The instructor was not very engaging,4,STAT-303,Statistics for Data Science,Dr. Bob Johnson,Easy,Positive
+I loved the interactive quizzes,1,CS-202,Introduction to Machine Learning,Dr. Mike Davis,Medium,Negative
+The instructor was very responsive,2,CS-202,Statistics for Data Science,Dr. Mike Davis,Hard,Negative
+The instructor was not very engaging,4,STAT-303,Introduction to Machine Learning,Dr. Bob Johnson,Hard,Positive
+The instructor was very responsive,5,ML-101,Philosophy of Artificial Intelligence,Dr. John Smith,Medium,Positive
+The instructor was not very engaging,3,CS-202,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Medium,Negative
+The instructor was very responsive,4,CS-202,Data Structures and Algorithms,Dr. John Smith,Hard,Positive
+I loved the interactive quizzes,5,CS-202,Economics for Business,Dr. Bob Johnson,Hard,Positive
+The course was perfect for beginners,5,ML-101,Philosophy of Artificial Intelligence,Dr. Alice Brown,Easy,Positive
+The course was perfect for beginners,2,PHIL-505,Introduction to Machine Learning,Dr. Bob Johnson,Medium,Negative
+I loved the interactive quizzes,2,ECON-404,Economics for Business,Dr. John Smith,Easy,Negative
+I was disappointed with the lack of hands-on exercises,3,ECON-404,Introduction to Machine Learning,Dr. John Smith,Easy,Negative
+The course was perfect for beginners,2,PHIL-505,Economics for Business,Dr. Mike Davis,Hard,Negative
+The instructor was not very engaging,3,ML-101,Philosophy of Artificial Intelligence,Dr. Alice Brown,Hard,Negative
+I didn't like the way the course was paced,2,ECON-404,Statistics for Data Science,Dr. John Smith,Medium,Negative
+The instructor was very knowledgeable,3,ML-101,Data Structures and Algorithms,Dr. Bob Johnson,Easy,Negative
+The instructor was very knowledgeable,1,ML-101,Data Structures and Algorithms,Dr. John Smith,Easy,Negative
+The course was too easy,1,CS-202,Data Structures and Algorithms,Dr. John Smith,Easy,Negative
+The instructor was not very engaging,4,ECON-404,Economics for Business,Dr. John Smith,Easy,Positive
+I loved the interactive quizzes,2,ECON-404,Statistics for Data Science,Dr. Jane Doe,Easy,Negative
+The instructor was not very engaging,5,STAT-303,Economics for Business,Dr. Bob Johnson,Hard,Positive
+This course was amazing!,1,ECON-404,Introduction to Machine Learning,Dr. Alice Brown,Hard,Negative
+The course was too easy,4,PHIL-505,Data Structures and Algorithms,Dr. Jane Doe,Hard,Positive
+This course was amazing!,3,PHIL-505,Data Structures and Algorithms,Dr. John Smith,Easy,Negative
+I loved the interactive quizzes,5,CS-202,Data Structures and Algorithms,Dr. Bob Johnson,Medium,Positive
+The instructor was very knowledgeable,4,ECON-404,Statistics for Data Science,Dr. John Smith,Easy,Positive
+The course was too easy,2,ML-101,Economics for Business,Dr. Mike Davis,Easy,Negative
+The instructor was very knowledgeable,1,ML-101,Introduction to Machine Learning,Dr. John Smith,Hard,Negative
+I loved the interactive quizzes,3,CS-202,Data Structures and Algorithms,Dr. Jane Doe,Easy,Negative
+The course was too easy,5,STAT-303,Data Structures and Algorithms,Dr. Mike Davis,Easy,Positive
+The instructor was very responsive,5,PHIL-505,Philosophy of Artificial Intelligence,Dr. John Smith,Hard,Positive
+The instructor was very responsive,3,CS-202,Economics for Business,Dr. John Smith,Hard,Negative
+The course was too easy,1,PHIL-505,Introduction to Machine Learning,Dr. Mike Davis,Hard,Negative
+The course was too easy,1,ML-101,Data Structures and Algorithms,Dr. Alice Brown,Hard,Negative
+The instructor was not very engaging,3,ECON-404,Introduction to Machine Learning,Dr. Mike Davis,Easy,Negative
+I loved the interactive quizzes,5,STAT-303,Data Structures and Algorithms,Dr. Bob Johnson,Easy,Positive
+The instructor was not very engaging,4,ML-101,Philosophy of Artificial Intelligence,Dr. Alice Brown,Medium,Positive
+I was disappointed with the lack of hands-on exercises,3,ECON-404,Introduction to Machine Learning,Dr. Mike Davis,Medium,Negative
+I was disappointed with the lack of hands-on exercises,5,CS-202,Data Structures and Algorithms,Dr. Jane Doe,Easy,Positive
+The course was perfect for beginners,5,CS-202,Philosophy of Artificial Intelligence,Dr. Jane Doe,Hard,Positive
+The instructor was not very engaging,5,STAT-303,Data Structures and Algorithms,Dr. Jane Doe,Hard,Positive
+This course was amazing!,1,ML-101,Philosophy of Artificial Intelligence,Dr. Mike Davis,Hard,Negative
+The course was very well-organized,1,CS-202,Introduction to Machine Learning,Dr. Alice Brown,Hard,Negative
+The instructor was not very engaging,1,ECON-404,Introduction to Machine Learning,Dr. Mike Davis,Easy,Negative
+The course was very well-organized,4,STAT-303,Data Structures and Algorithms,Dr. Alice Brown,Hard,Positive
+The instructor was very responsive,3,ML-101,Philosophy of Artificial Intelligence,Dr. Alice Brown,Hard,Negative
+I loved the interactive quizzes,3,PHIL-505,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Medium,Negative
+The course was too easy,5,CS-202,Philosophy of Artificial Intelligence,Dr. John Smith,Hard,Positive
+I didn't like the way the course was paced,3,CS-202,Statistics for Data Science,Dr. Alice Brown,Hard,Negative
+The instructor was not very engaging,4,PHIL-505,Economics for Business,Dr. Bob Johnson,Medium,Positive
+I was disappointed with the lack of hands-on exercises,3,ML-101,Introduction to Machine Learning,Dr. Bob Johnson,Medium,Negative
+The instructor was very knowledgeable,1,ML-101,Economics for Business,Dr. Bob Johnson,Hard,Negative
+I loved the interactive quizzes,1,ECON-404,Introduction to Machine Learning,Dr. Alice Brown,Easy,Negative
+The instructor was very responsive,1,CS-202,Statistics for Data Science,Dr. John Smith,Medium,Negative
+The course was perfect for beginners,1,STAT-303,Economics for Business,Dr. Alice Brown,Medium,Negative
+The course was perfect for beginners,4,ECON-404,Data Structures and Algorithms,Dr. Bob Johnson,Easy,Positive
+The course was too easy,2,STAT-303,Statistics for Data Science,Dr. Jane Doe,Medium,Negative
+The instructor was very responsive,3,ECON-404,Philosophy of Artificial Intelligence,Dr. Bob Johnson,Easy,Negative
+The instructor was very knowledgeable,2,ML-101,Economics for Business,Dr. Bob Johnson,Easy,Negative
+The course was perfect for beginners,2,ECON-404,Statistics for Data Science,Dr. Alice Brown,Medium,Negative
+The instructor was very responsive,2,ML-101,Statistics for Data Science,Dr. Bob Johnson,Medium,Negative
+The course was perfect for beginners,5,PHIL-505,Statistics for Data Science,Dr. Bob Johnson,Easy,Positive
+I was disappointed with the lack of hands-on exercises,5,CS-202,Data Structures and Algorithms,Dr. Bob Johnson,Easy,Positive
+This course was amazing!,3,ECON-404,Data Structures and Algorithms,Dr. John Smith,Easy,Negative
+The course was very well-organized,1,PHIL-505,Data Structures and Algorithms,Dr. Alice Brown,Easy,Negative
+The instructor was very knowledgeable,5,PHIL-505,Economics for Business,Dr. Jane Doe,Hard,Positive
+I was disappointed with the lack of hands-on exercises,4,STAT-303,Philosophy of Artificial Intelligence,Dr. Jane Doe,Easy,Positive
+The instructor was not very engaging,4,ECON-404,Introduction to Machine Learning,Dr. Jane Doe,Hard,Positive
+The course was too easy,2,CS-202,Introduction to Machine Learning,Dr. Jane Doe,Hard,Negative
+The course was very well-organized,1,ML-101,Statistics for Data Science,Dr. John Smith,Hard,Negative
+I didn't like the way the course was paced,1,ML-101,Introduction to Machine Learning,Dr. Jane Doe,Hard,Negative
+I loved the interactive quizzes,3,CS-202,Economics for Business,Dr. Bob Johnson,Medium,Negative
+The course was too easy,4,ECON-404,Economics for Business,Dr. Mike Davis,Medium,Positive
